@@ -1,9 +1,0 @@
-Metric,Value
-Top-1 Accuracy,0.6737160120845922
-Top-3 Accuracy,0.7953172205438066
-Macro F1,0.5294454167511602
-Majority-Class Baseline,0.0736404833836858
-Test Samples,2648.0
-Review Threshold,0.5
-Threshold Coverage,0.5037764350453172
-Accuracy Above Threshold,0.9100449775112444
