@@ -210,10 +210,9 @@ if submitted:
 
                 top_indices = probabilities.argsort()[::-1][:3]
 
-            st.warning(
-                "Manual verification required. These are candidate "
-                "headings, and the correct heading may be absent."
-            )
+            st.caption(
+                           "Suggested headings for review. Verify the final classification."
+                                                                )
 
             st.subheader("Top-3 Candidate Headings")
 
