@@ -1,0 +1,6 @@
+Stage,Records
+Original parsed training records,18254
+Valid codes and descriptions,18233
+After conflicting descriptions removed,17509
+After exact duplicate removal,15697
+After rare-class filter,14880

@@ -1,0 +1,899 @@
+text,actual_hs4,predicted_hs4,top1_correct,top3_predictions,confidence
+a 25 piece hss mini drill bit set and an 11 piece magnetic driver set,8207,8505,False,8505 | 8205 | 8467,22.08312631560068
+probucol usp (cas 23288-49-5),2930,3914,False,3914 | 2930 | 3507,26.601268383288122
+"a woman's cardigan made of 70% acrylic and 30% wool, featuring a full front opening with no closure, a shawl collar, two patch pockets below the waist, long sleeves with cuffs, shoulder pads, and extending to the thigh area",6110,6102,False,6102 | 6110 | 3926,63.128107178675506
+plastic bottles and caps made of polyethylene from china,3924,3923,False,3923 | 3926 | 3920,71.77668696738692
+mitsui seiki jidic vertical spindle and horizontal spindle jig borers,8466,8467,False,8467 | 8205 | 8465,16.41207254575121
+an inner tube assembly for a needle assembly of an endoscope,9002,9018,False,9018 | 9002 | 3917,43.44358597297093
+"metallized, coated polyethylene terephthalate (pet) film",3926,3920,False,3920 | 3921 | 3917,80.33207450928988
+wood spade bit sets and lock installation kit,8205,8207,False,8207 | 8205 | 8211,43.303432999445604
+a conductor fitted with connectors used in civil aircraft,7308,8536,False,8536 | 9403 | 3926,13.163873315715257
+plastic bear bottles filled with scented lotion,3926,3923,False,3923 | 3924 | 7311,32.41210971445946
+"gas spring, latch assembly, striker, and cable components of a door module used in motor vehicles",8302,8481,False,8481 | 8708 | 8501,9.237252338463403
+natuphos 5000g phytase granular formulation and natuphos 10000g phytase granular formulation,3507,2933,False,2933 | 3507 | 3402,17.68131126616236
+a pellet scanning system used for quality control of plastic pellets,9031,3926,False,3926 | 3913 | 8481,9.686740789778009
+"a hot roller set composed of five jumbo rollers and super comb-clips, packaged in a micro fibre carrying bag",8516,3926,False,3926 | 8482 | 8516,6.024982871682364
+disney high school musical locker gear assortment sets,3506,9023,False,9023 | 7326 | 3506,7.950932712598459
+melamine (cas 108-78-1) used as a pharmaceutical intermediate,2933,2902,False,2902 | 2914 | 2916,14.127398677353597
+a multi-spectral imager used for inspecting high-voltage electrical defects,9027,9031,False,9031 | 9030 | 8536,19.497634099826247
+"children's sleepwear consisting of a loosely-fitted, wide-legged pair of trousers and a t-shirt or pullover, made of 100% polyester",6113,6107,False,6107 | 6112 | 3926,10.057303046358527
+"2,4-dichlorobenzenesulfonyl chloride",2904,2903,False,2903 | 2904 | 2930,44.853788880712194
+powerheads used in gardening tools,8407,8201,False,8201 | 8481 | 8479,52.47465745550303
+various gear reduction equipment and pneumatic actuators,8483,8412,False,8412 | 8481 | 9018,16.72364139565284
+an infant garment set consisting of a tank top and shorts made of knit cotton fabric for boys,6103,6111,False,6111 | 6109 | 6103,72.10857924499547
+decorative printed polyvinyl chloride (pvc) film used in laminated flooring,3920,3921,False,3921 | 3920 | 3918,34.7383343567078
+"a multifunctional 3-speed portable fan that is a hand truck with a steel chassis/base, featuring a 125-watt fan, 1200 lumen light, multiple power and usb plugs, and designed primarily for use at job sites by tradesmen",8716,8414,False,8414 | 8504 | 8465,49.88587201568149
+a battery operated led safety light designed for bicycles,8531,8512,False,8512 | 8481 | 3922,40.03222566254189
+"a personal protection essentials kit containing an lcd digital thermometer, three protective cloth face masks, four disposable pairs of nitrile gloves, two bottles of gel hand sanitizers, a pack of alcohol wet wipes, and two poly bags for disposal of the gloves",9025,3926,False,3926 | 3923 | 9020,27.268793537189822
+various garments used for hunting with an outer shell composed of a knit pile fabric laminated to a goretex membrane,6104,3921,False,3921 | 6110 | 6104,28.764012057505226
+aromatic lactones used as color formers for thermal and carbonless paper coatings,2932,3204,False,3204 | 3824 | 3926,18.422647076270472
+a single lined telephone identified as slim white phone (item #951783),8517,8518,False,8518 | 8517 | 9030,33.45419819965778
+peel heat seals used to seal polypropylene and polyethylene plates,3921,3920,False,3920 | 3923 | 4008,55.74226158836259
+"a fiber optic gyroscopic compass designed for indicating the roll, pitch, heave, surge, sway, and heading of boats and other sea-going vessels",9014,9018,False,9018 | 9027 | 3926,15.358244790878109
+cnc wire cut edm,8465,8461,False,8461 | 7317 | 8465,21.45800151247974
+polyethylene terephthalate (pet) pellets and pet bottle preforms,3907,3923,False,3923 | 3920 | 3907,43.0585512639204
+neorest air bath,9019,8481,False,8481 | 8414 | 9401,19.4463320479211
+"a 2mp hd face recognition terminal with temperature reading, mask detection, and an lcd display",9025,8536,False,8536 | 9020 | 9025,10.520786452196122
+assorted vending machine products including miniature toys and a bone china mug and saucer set,8479,8476,False,8476 | 8424 | 9023,21.006595116860705
+brides made wedding day essentials kit,3506,3926,False,3926 | 8481 | 3920,5.083040447193046
+"a 7-piece tool kit with 10 pieces of fasteners including a claw hammer, measuring tape, plastic cutter, long nose pliers, screwdrivers, and fasteners",8207,8206,False,8206 | 8211 | 8205,69.22224807379223
+semi-finished optical measuring and checking instruments,9031,9027,False,9027 | 9015 | 9031,15.793762248832536
+flexible intermediate bulk container components used in the kaolin clay industry,3925,3917,False,3917 | 3923 | 8207,12.855235698420916
+a hands-free toothpaste dispenser that uses a vacuum pump to dispense toothpaste,8413,8414,False,8414 | 8481 | 8413,14.760816707225802
+"aluminum stacker jacks used to stabilize mobile homes, campers, and r.v.'s",8425,8479,False,8479 | 8425 | 7616,15.996109934805697
+"a ground terminal, plate terminal, and choke coil assembly used in a fuel pump electric motor circuit",8503,8536,False,8536 | 8413 | 8538,29.303236452064034
+"dinonyl phenol, dimethyl maleate, and diethyl maleate",2907,2917,False,2917 | 2930 | 2911,24.59176772611694
+a 100% polyethylene open-work warp knit fabric and a polyethylene extruded mesh used in agriculture to protect grape crops from damage by birds,3920,3926,False,3926 | 3923 | 3921,43.81636678776267
+battery powered smoke detectors with ionization chambers,9022,8531,False,8531 | 8424 | 9031,37.34381084252607
+"adaptor connectors made of nickel-plated brass, including push-in fittings and quick release adaptor connectors",8482,8536,False,8536 | 8481 | 7307,20.267638506026834
+"a female hospital admission kit containing a plastic tumbler, pitcher, bedpan, emesis basin, tray, and wash basin",3922,3926,False,3926 | 9018 | 3924,48.23468049540726
+color precursors used in heat-sensitive recording paper and pressure-sensitive carbonless paper,3204,3919,False,3919 | 4821 | 8441,52.13215817832685
+polystyrene beads containing iron oxide salt used for antibody attachment in laboratory research,3903,2933,False,2933 | 3903 | 8479,15.072254079533662
+"an outdoor survival kit containing a penknife, flint and steel, rope, safety pins, a wire saw, tweezers, and a compass, packaged in a steel tin",8203,7322,False,7322 | 7321 | 8203,35.59596538431691
+fluid couplings with shut-off mechanisms used with flexible tubing,8481,8466,False,8466 | 3917 | 8481,15.476164984051117
+keychains with decorative attachments,7326,7315,False,7315 | 3926 | 6110,57.84552130723463
+a dialysate warmer and associated tubing sets designed for hemodialysis treatments,8543,3917,False,3917 | 7321 | 9018,25.47810088512798
+e-series ultrasonic meters used to measure the flow of liquids in various applications,9026,8481,False,8481 | 9026 | 9031,23.95777652097902
+a portable usb keyboard handheld vacuum that plugs directly into a computer's usb port and is intended to keep the computer and keyboard free of dust and dirt,8508,8471,False,8471 | 8473 | 8508,30.44198200376938
+a polyethylene sheet used as a setup cover in hospitals,3920,3921,False,3921 | 3920 | 3923,30.0855669123403
+garment bags used for storing and maintaining the cleanliness of women's dresses,3924,3923,False,3923 | 6104 | 4202,37.08488502985938
+injection-molded plastic closure assemblies intended for use with handheld spraying appliances,8424,3926,False,3926 | 3917 | 3923,9.332827664729946
+a ceiling fan with an integrated heating module and light fixture,8516,8414,False,8414 | 8516 | 8517,50.36674299286544
+an air start distributor for marine propulsion diesel engines,8481,8409,False,8409 | 8481 | 8412,17.210369547612938
+a golf ball dispenser used at driving ranges,8476,8482,False,8482 | 8205 | 8481,15.77663652990656
+decanoic acid (capric acid),2915,2916,False,2916 | 2915 | 2917,24.57031022937305
+an imitation leather fabric used in upholstery made from 100% polyester fibers and laminated with a compact polyurethane plastic,5903,3921,False,3921 | 5903 | 3926,81.3589967388164
+"various chimney system parts including an elbow, chimney pipe section, chimney cap, storm collar, and flashing",7307,7306,False,7306 | 3917 | 8431,3.6135850753745125
+"fiberglass reinforced plastic underground storage tanks designed for the underground storage of water, ranging in size from 600 gallons to 50,000 gallons",3925,7309,False,7309 | 7311 | 8481,27.919612544896292
+"women's garments made from finely knit fabrics composed of 70% acrylic and 30% wool, including a dress with a round stand-up collar and a cardigan with a v-neck",6104,6110,False,6110 | 6105 | 6113,69.34323628142205
+a dynamo assembly that is part of an electronic lavatory sensor faucet,8481,8479,False,8479 | 9026 | 8481,30.056016672900792
+"automotive parts including control assembly a/c blower motor, bracket & processor assembly injector control, and receiver assembly",3505,8481,False,8481 | 8538 | 8479,40.74095168156438
+a radar-based distronic adaptive cruise control unit,8526,9032,False,9032 | 8526 | 9015,18.67079405037932
+an aluminum soap dish shaped like a fish,7615,7323,False,7323 | 8205 | 8518,14.862817919608975
+an unground thrust ring assembly used in downhole positive displacement motors,8482,7407,False,7407 | 8501 | 8412,18.62234004840205
+a large road hazard kit containing various safety and medical items,8211,8536,False,8536 | 7318 | 3923,25.95222663264919
+zig-zag springs made of carbon steel used in the production of chairs and sofas,7320,7307,False,7307 | 7320 | 7318,11.33982447373487
+"a sleeveless vest made from fleece fabric, characterized by a hood, full-front zippered opening, rib-knitted waistband and armhole edges, and open pockets at the lower portion of the front, sized for infants and boys",6112,6111,False,6111 | 6101 | 6110,52.45251548054394
+a cnc vertical turning machine and multistation transfer machines for working metal,8461,8458,False,8458 | 8466 | 8461,22.253379454742454
+a 3-speed wire wound ceramic resistor with a thermal fuse used in automotive cooling fan assemblies,8533,8414,False,8414 | 8536 | 8533,53.73759328161617
+4-(trifluoromethyl)benzene-1-sulfonyl bromide (cas # 1694090-08-8),2904,2930,False,2930 | 2929 | 2903,33.62398855692769
+"a child's sweater made of 50% cotton and 50% acrylic, featuring a full frontal opening with a button closure, a shirt-style collar, two front pockets, long sleeves with elasticized cuffs, and a hemmed bottom with a drawstring tightening",6111,6110,False,6110 | 6102 | 3926,63.757765303915804
+a 10 piece template guide set designed for use with hand-held routers,8466,8467,False,8467 | 8207 | 8466,12.432912529256381
+"a woman's cardigan made from 70% acrylic, 29% wool, and 1% nylon, featuring a full front opening, one button snap closure, turned down rounded collar, long sleeves, and extending from the shoulders to the hips",6110,6102,False,6102 | 6110 | 3926,67.07864981129235
+"a girl's bralette, constructed of 95% cotton and 5% spandex knit fabric, featuring a v-front neckline, adjustable elastic shoulder straps, elasticized edging, and an adjustable hook and eye closure in the back",6212,6108,False,6108 | 6212 | 6106,27.968147570035214
+silage bags made of polyethylene plastic sheeting used for storage of feed products,3917,3923,False,3923 | 3920 | 3917,46.85398238649888
+"fantuzzi reachstackers, mobile self-propelled machines used for loading and unloading shipping containers in transportation terminals",8426,8428,False,8428 | 3923 | 8479,42.124399979951974
+ductile iron alloy castings used in plastic injection molding machines,8477,7307,False,7307 | 8477 | 8480,39.37327028267792
+"a multi-function electromechanical tool used for polishing, deburring, and sculpting of various materials, including a motor, speed controller, flexible shaft, rotary handpiece, reciprocating handpiece, and a combination pin and wrench",8205,8204,False,8204 | 8466 | 8205,29.818759030421084
+"outdoor accessory kits that include flashlights, knives, multi-tools, and batteries",8215,8211,False,8211 | 8207 | 9018,46.606539281707136
+a brush grubber bg-18 heavy duty root buster,8201,8479,False,8479 | 9018 | 8201,24.600060175068247
+sealing tapes used as substitutes for caulk,3919,3926,False,3926 | 3923 | 3921,32.94970797434427
+"a coil assembly, a stator winding assembly, a cluster assembly, and a transformer assembly used in sensors",8504,8518,False,8518 | 8511 | 8504,16.234922860355773
+langmuir-blodgett troughs,8479,8481,False,8481 | 3926 | 3921,3.063936312825806
+single-use electronic components for a therapy delivery system that generates a low pulsed electromagnetic field (pemf) for treating postoperative pain and edema,8543,9018,False,9018 | 8543 | 3926,63.10140643579638
+decorative trim made of plastic film with patterns and beads,3926,3920,False,3920 | 3926 | 7323,34.18681567182855
+a hollow shaft used in garage door lifting mechanisms,8412,8425,False,8425 | 9401 | 8481,20.17558673642333
+a superlok union from south korea,7307,8512,False,8512 | 7317 | 7307,9.938157820461862
+a turbine housing used in turbochargers for diesel engines,8414,8409,False,8409 | 8413 | 8414,29.46152036631994
+"various bicycle parts including derailleur sets, cotterless crank sets, pedals with toe clips and straps, reflectors, and roller type chain",7318,7315,False,7315 | 8481 | 3506,6.831428141490596
+epic party wireless speaker and lit party wireless speaker,8527,8518,False,8518 | 3923 | 8519,33.143839828006705
+"a toddler playmat made of pvc foam plastic, designed for cushioning and noise reduction, with decorative animation characters",3924,4911,False,4911 | 3926 | 3921,25.666768078539288
+top drive system and casing drive system used in petroleum drilling rigs,8431,8501,False,8501 | 9018 | 7308,12.988044999259149
+blow torches,8205,8477,False,8477 | 8205 | 3918,11.046212916433724
+a seismic monitoring system designed for use in industrial complexes to monitor earthquakes,9015,9027,False,9027 | 9025 | 9026,18.682302877855463
+a 32 channel hart multiplexer,8538,9029,False,9029 | 9030 | 9032,7.330977270680263
+overflow cover plates made from chrome-plated abs plastic,3926,8481,False,8481 | 3926 | 3924,12.101238402295543
+"a valentine's kit consisting of large foamed plastic hearts and smaller self-adhesive plastic hearts, and a smart foam faith 3-in-1 stickers sheets letters kit made of foamed ethylene vinyl acetate (eva) plastic",3926,3919,False,3919 | 3926 | 3921,68.40727297281332
+a cold rolling wire reduction system,8463,8455,False,8455 | 9018 | 8479,24.55436919940538
+a kiosk reverse vending machine that buys back used cell phones from customers and pays them cash,8470,8476,False,8476 | 8479 | 3926,51.71411052945444
+dx lenses for digital cameras,9002,9001,False,9001 | 8525 | 9002,32.36762170374888
+a femtocell,8517,3913,False,3913 | 8517 | 3921,4.1373769991055385
+"production equipment used in the manufacture of automotive disc brake pads, including a preform press, a hot forming press, and dies",8479,8481,False,8481 | 8207 | 8479,22.68932324149263
+a crocheted tank top for girls made of 100% cotton,6110,6109,False,6109 | 6112 | 6106,49.928319858975875
+"an agricultural/horticultural irrigation system part, specifically a ground sprinkler",8424,8483,False,8483 | 8205 | 8481,11.266154976533526
+"an ultimate maple syrup tapping kit containing abs plastic elbow fittings, ldpe tubing, polyester filters, recipe cards, and an instruction card",3917,8207,False,8207 | 8523 | 3917,47.07818646332707
+"a diaphragm assembly, dial thermometer, and a brass hairspring",9026,9025,False,9025 | 8481 | 8424,28.04394357515112
+"high tech goods including automatic data processing machines, digital processing units, input/output units, and storage units of chinese origin being imported into the united states from mexico",8477,8471,False,8471 | 8473 | 8504,38.03061389028515
+a hydraulic motorcycle lift stand used to raise small motorcycles for maintenance or repairs,8428,8412,False,8412 | 8425 | 8428,30.130164117270734
+"assorted laboratory ware including robotic pipetting tips, pcr strips, deep well plates, screw cap tubes, ep tubes, and reagent bottles",3926,8479,False,8479 | 3926 | 3923,24.848599435590067
+a cateye model cc-6000 cyclocomputer,9029,8471,False,8471 | 8407 | 9023,5.222428708919103
+"girls and infants pullovers made of 100% cotton, featuring a square neckline, shoulder straps, and an empire waist",6110,6111,False,6111 | 6110 | 4202,32.150910044317385
+a welded tube mill,8462,7306,False,7306 | 8515 | 8455,42.74295344863289
+4-methoxy benzyl alcohol (cas # 105-13-5),2909,2906,False,2906 | 2909 | 2930,66.19888681578855
+range and stove parts,8519,7321,False,7321 | 8525 | 7306,68.48210246100379
+"a sleeveless garment for girls made from finely knitted, pile fabric of 100% cotton, characterized by a full-front zippered opening, a hood, and a rib-knitted waistband",6110,6106,False,6106 | 6110 | 6101,28.911742864199596
+an instrument for measuring the average fiber diameter of wool staples,9031,9027,False,9027 | 9029 | 9015,52.84360691312951
+a cast cover designed to keep the toes warm and protect the cast from dirt and grime,9021,3926,False,3926 | 7323 | 8481,17.955952295355793
+"ladies' knitted jogging suits, styles b9003 and b9004, made from fleece fabric of 85% polyester and 15% cotton",6113,6112,False,6112 | 6111 | 5903,67.42471536687157
+cast iron parts used in gear finishing and cutting machines,8466,7323,False,7323 | 8461 | 8483,15.416812942157975
+"a garden tool set that includes a trowel, transplanter, digger/weeder, cultivator, bypass pruner, shears, a rubber knee pad, various hose connectors, and twisty ties, all fitted into a molded plastic case",8201,8207,False,8207 | 8201 | 3917,43.959757702194665
+uninterruptible power supplies used for local area networks (lans),8514,8504,False,8504 | 3926 | 8543,72.67619883748814
+"a deluxe hanging traveler containing various personal care items including an alarm clock, key ring, soap dish, body sponge, hairbrush, comb, nail brush, nail clipper, tweezer, nail files, manicure sticks, and a travel case",8203,8205,False,8205 | 8203 | 7323,22.158377718686204
+"a seating unit designed to be a form of outdoor furniture, accommodating one to three persons, with features such as foot rests, neck supports, sun visors, foldout trays, and rollers for easy maneuvering, made of pvc wickerwork or natural rattan",9401,3926,False,3926 | 9401 | 9403,11.009717159882506
+polypropylene strip used as string,3925,3920,False,3920 | 3916 | 3911,70.2151296990761
+"pinanediol, a cyclanic alcohol used as a pharmaceutical intermediate",2906,2905,False,2905 | 2906 | 2914,53.80721934871041
+"a variable resistor potentiometer/switch, variable resistor potentiometers without switches, and a screw",8536,8533,False,8533 | 8536 | 8409,19.451204832443416
+a photosensitive dye used in polymer cleaning solutions for thermal printing plates,3204,8442,False,8442 | 3204 | 3909,20.542638313710984
+flanges used in the manufacture of an exhaust gas recirculation (egr) system,8409,7307,False,7307 | 3921 | 8409,20.79969523247256
+power distribution units (pdus) with remote switching capabilities and electrical monitoring features,8537,8504,False,8504 | 8536 | 8424,21.38948099842827
+2-ethylhexyl acrylate (2eha),2918,2916,False,2916 | 3906 | 2917,61.810765502681384
+lsi nytro warpdrive application acceleration cards,8471,4911,False,4911 | 9020 | 8481,8.906460747486701
+proact actuator product line from china,8481,8412,False,8412 | 8501 | 3926,34.706103410879535
+advantapea essential 80 and advantarice premier 300,3504,8441,False,8441 | 2933 | 3926,4.6298009969337635
+"copper components of a rain gutter system, specifically a reducer, extension joint, collector, round end, and vent cap",7412,9015,False,9015 | 3926 | 8431,15.078755688751928
+a 15 piece camping set containing various camping tools and accessories,8201,8207,False,8207 | 8205 | 8203,32.36493171510453
+rheopearl-dextrin fatty acid (cas no. 83271-10-7),3505,2916,False,2916 | 2930 | 2915,17.2863278292088
+pacing leads used in pacemakers,9021,9002,False,9002 | 8409 | 9018,13.611150982236204
+"a noncellular plastic sheet composed of a blend of polyvinyl chloride, acrylonitrile butadiene styrene, ethylene vinyl acetate, and polyurethane, used for interior parts of automobiles",3920,3921,False,3921 | 3926 | 3920,59.84997543556151
+steel pipe spools used in heat recovery steam generators,7304,8402,False,8402 | 7304 | 9031,47.50769130317934
+a lighted pick up tool and mirror,8505,7009,False,7009 | 8205 | 8203,23.309898506826464
+a priority zoning circulator printed circuit board,8537,8534,False,8534 | 8538 | 8529,49.24400181212853
+a rubber acoustic membrane used in the installation of ceramic tile floors,4003,4016,False,4016 | 3921 | 8466,5.826647839402629
+a hot water dispenser system that includes a storage tank and a faucet,8516,8481,False,8481 | 8516 | 8471,43.73566881018059
+glycerol-1-allylether,2909,2905,False,2905 | 2909 | 3907,3.8658385609153654
+cable assemblies used in automotive applications and surgical devices,9401,9021,False,9021 | 3917 | 9018,6.567553813238845
+"a roll of polyethylene film that is formed into a continuous sleeve or lay-flat tube, printed with designs, and used to manufacture bags for dental offices",3917,3923,False,3923 | 8479 | 3917,13.458178236655497
+metal cans and can ends (lids and bases) from japan,7312,3923,False,3923 | 7323 | 3402,10.900774543155615
+a grease fitting designed for machinery lubrication,8487,8479,False,8479 | 3402 | 8487,43.62777588675754
+commander 4600 hp modular drawworks,8425,8443,False,8443 | 8481 | 9026,20.023525220362124
+"a barcode scanning system that includes a scanner, data access point, charging station, and a glove for data input into warehouse management systems",8471,8517,False,8517 | 8473 | 8471,25.07768467016777
+a siren amplifier board that is part of a siren system,8531,8518,False,8518 | 8479 | 9021,13.94132552936349
+chain and guide tracks for curtains,8302,7315,False,7315 | 3924 | 3916,51.7132137360158
+cap guard chain link posts used in fencing systems,7306,7315,False,7315 | 7326 | 8481,35.17612831177867
+super swimmer masks,9004,6112,False,6112 | 8205 | 3924,6.822484013224428
+a mason jar with chalk,7013,8470,False,8470 | 8481 | 6110,24.44987464535112
+"rectangular shaped tri-laminate plastic sheets made of high impact polystyrene, used to manufacture irrigation trays",3920,3921,False,3921 | 3920 | 3923,32.17596833550241
+"cordless tool sets including a drill/driver, circular saw, reciprocating saw, and laser level",9031,8467,False,8467 | 9031 | 8465,58.79839454864938
+electronic bulk coin counters and cash counters that can count coins and banknotes,8423,9029,False,9029 | 8470 | 8423,32.71570183002533
+self-adhesive polyether foam sheet,3926,3919,False,3919 | 3921 | 3926,69.55726040595675
+"a how to train your dragon dragon training 101 set that includes pencils, a pen, a memo pad, a magnet sheet, a tape dispenser, erasers, and a child's novelty handbag",3923,4202,False,4202 | 9023 | 3506,55.15637845666722
+a slimwave borehole acquisition system,9015,9018,False,9018 | 9015 | 8473,31.221501562048587
+an automotive antenna amplifier,8543,9021,False,9021 | 8543 | 8529,17.992094070551833
+a candy sports bottle that is shaped like a rollerblade and contains hard sugar-based candy,3926,3923,False,3923 | 3924 | 3402,11.782173248000909
+a concrete heating system used to warm stored concrete aggregate in winter,7322,8480,False,8480 | 8516 | 8474,39.73624185555288
+a feedback transmitter assembly used in a ship's propulsion system,8543,8412,False,8412 | 8525 | 9018,10.33237023866546
+"a multi-function electromechanical tool used for polishing, deburring, and sculpting, which includes a motor with a speed controller, a flexible shaft, a rotary handpiece, a reciprocating handpiece, and a combination pin and wrench",8512,8204,False,8204 | 8466 | 8205,29.246961872874987
+"axes assembled in canada from components manufactured in the u.s.a., china, and taiwan",8201,8410,False,8410 | 8201 | 8482,20.29238683105729
+"a 10-piece deluxe all purpose tool kit containing a wrench, slip joint pliers, hammer, five screwdrivers with an adjustable handle, and a separate screwdriver, all made of steel and contained in a zippered vinyl case",8206,8205,False,8205 | 8206 | 8211,35.75991513743073
+a stay put rug pad,3921,6108,False,6108 | 7323 | 3920,6.878524124949164
+allyl diglycol carbonate sheet used for ophthalmic lenses and other applications,3920,3907,False,3907 | 3920 | 9018,18.04355066171696
+an 11 piece auto emergency tool kit,8414,8206,False,8206 | 8205 | 8467,26.468858665114197
+"n-diphenylmethylene glycine ethyl ester, cas no. 69555-14-2",2925,2909,False,2909 | 3907 | 2930,23.20993049319861
+"two pairs of women's pants, a woman's pullover, and a woman's shirt made of 88% polyester and 12% cotton knit fabric from the philippines",6111,6104,False,6104 | 6105 | 6110,58.72167781995613
+cast foam used to make an impression of a patient's foot,3921,7323,False,7323 | 3921 | 9018,20.429024283926125
+hydraulic firewood processing machines,8465,8412,False,8412 | 8479 | 8473,20.421324520410664
+"socket set screws and socket head cap screws made of stainless steel and steel from finland, sweden, and norway",7323,7318,False,7318 | 8481 | 3926,80.01663811058656
+a rotor for a cam phaser used in a two-stage hydraulically controlled cam phasing system of a passenger vehicle,8409,8412,False,8412 | 8413 | 8481,13.132733374190279
+a rotary flywheel with a built-in permanent magnet used in spark ignition engines,8409,8511,False,8511 | 8412 | 8483,15.328170205426675
+an emergency beauty kit containing various beauty and grooming items,8205,8203,False,8203 | 3924 | 8205,35.99638674179426
+locking pliers,8204,8203,False,8203 | 8205 | 8204,56.61858533792201
+"protamine sulfate (cas-9009-65-8), imported in bulk form from japan",3504,3913,False,3913 | 2933 | 2930,12.116381744972726
+"a tablet personal computer enclosure, docking station, a radio-frequency identification (rfid) fob, and a kiosk",8473,8471,False,8471 | 8531 | 8527,15.538407378135508
+"men's upper body garments made from 60% cotton and 40% polyester, designed for home comfort and lounging",6113,6103,False,6103 | 6110 | 8483,29.620312986298707
+vinyl flooring packaging machinery,8441,3918,False,3918 | 3923 | 3926,51.020013707944855
+silhouwell fit pod and silhouwell comfort pod,9506,8508,False,8508 | 9401 | 9029,13.466720576757337
+"marine products used to form a system for raising and lowering an anchor on a pleasure or commercial vessel, including windlasses, anchors, bow rollers, anchor chains, anchor connectors, chain stoppers, chain links, anchor rope, electrical switches, and circuit breakers",7318,8538,False,8538 | 7315 | 8425,37.85134805062537
+a girls knit blouse made of 100% cotton with swing top styling and ruffle fabric at the base,6116,6106,False,6106 | 6112 | 6110,73.22524744263039
+propiolic acid (cas # 471-25-0),2916,2915,False,2915 | 2916 | 2930,34.152398257403014
+"mens and boys t-shirts made from cotton and polyester, constructed in haiti",6113,6109,False,6109 | 6110 | 6103,56.892984753694535
+cellulose acetate foil and tape used for photographic film,3920,3921,False,3921 | 3920 | 3919,35.95588888925285
+a thera suit designed for rehabilitation of persons with cerebral palsy,9019,6112,False,6112 | 4202 | 6103,23.098203049049353
+stainless steel terminal adapters and burner air adapters used in a flexible insulated direct vent system for oil burning appliances,7307,8481,False,8481 | 7308 | 8536,13.454840029792905
+film transport gripper chain from germany,7317,3920,False,3920 | 7315 | 8428,43.91150215691334
+"1h,1h,2h,2h-perfluorooctanol, cas no. 647-42-7",2905,2933,False,2933 | 2905 | 2906,14.230032826218112
+"ethyl 3,3-bis(trifluoromethyl)acrylate, 5-amino-3-(4-methoxyphenyl)pyrazole, and n-acetylhomopiperazine",2916,2933,False,2933 | 2916 | 2930,65.17419345209284
+calcipotriol anhydrous (cas-112965-21-6) in bulk form,2906,2917,False,2917 | 2921 | 2915,7.0223529535081886
+"numerically controlled lathes, universal lathes, radial drilling machines, and grinding machines",8470,8466,False,8466 | 8458 | 8461,44.753361123879536
+"women's two-piece garment, style 045-4834, consisting of a top and bottom, classified as sleepwear or outerwear",6110,6108,False,6108 | 6112 | 6104,21.682989162400126
+electric motors from china,8511,8501,False,8501 | 8516 | 8536,65.87304659896354
+"compact photo printers capable of connecting to automatic data processing machines, using thermal transfer printing technology, and featuring wireless connectivity options",8443,8471,False,8471 | 8443 | 8442,18.92724959422273
+coil storage products made of recycled polyethylene,3926,3920,False,3920 | 8471 | 4003,23.61189584512525
+a pulling eye and a repair kit for a hoist,7326,8425,False,8425 | 7326 | 8205,26.59724110990076
+a two-way satellite simulator,9030,9023,False,9023 | 8517 | 9030,20.773551303354466
+"boys wearing apparel consisting of a wide-legged pair of shorts and a short-sleeved pullover, made from a finely knitted fabric of 65% cotton and 35% polyester",6103,6111,False,6111 | 6107 | 6103,23.068008945801495
+"photo radar equipment consisting of a radar unit, control unit, photographic camera, flash unit, memory card, and tripod used to record traffic violations",9015,9006,False,9006 | 8526 | 9031,19.675020198255478
+a 15 piece camping set containing various tools and accessories packed in a molded plastic carrying case,8201,8207,False,8207 | 4202 | 8211,16.92617397716613
+a fisherman's caddy kit,8203,8518,False,8518 | 3924 | 9018,8.214606074824305
+plastic sleeve protectors composed of polyethylene with elastic ends,3926,3923,False,3923 | 3926 | 3917,37.93571098752109
+decorative window clings made of pvc plastic sheeting designed to cling to glass and other smooth surfaces without the need for adhesives,4911,3926,False,3926 | 3920 | 3925,17.152647185636503
+polyester putty used to repair autobodies and airplane bodies,3214,8481,False,8481 | 8511 | 3214,30.35345706691596
+"industrial welding robots manufactured by kuka roboter gmbh, including mig and spot welding models",8515,8479,False,8479 | 8515 | 8517,36.48729505837699
+powerheads used in power gardening tools,8407,8201,False,8201 | 8504 | 8479,39.75701366780016
+"glycerol mono p-aminobenzoate, pentyl p-dimethylaminobenzoate, and 2-ethylhexyl p-dimethylaminobenzoate",2932,2916,False,2916 | 2917 | 3921,30.143790668544927
+marine diesel engines used for power generation and other applications in the oil exploration industry,8410,8408,False,8408 | 3917 | 9015,72.91322473768138
+components of a vegetative flower unit (vfu) including a fan coil unit and a supply manifold,8415,8481,False,8481 | 8414 | 8415,11.804559357293176
+plastic models and plastic mirrors used for architectural and educational purposes,3920,9023,False,9023 | 3920 | 3923,51.89328881284321
+"various sorters/graders/screeners used for sorting, grading, and screening prepared foods",8438,8472,False,8472 | 9023 | 7616,7.213224251713184
+a wood-burning heater with a blower motor assembly designed for domestic environments,7322,8516,False,8516 | 7321 | 8479,22.10433753911595
+"children's party goods including gift wrapping paper, greeting cards, badges, stickers, plastic bags, and place mats",3925,3923,False,3923 | 3926 | 3919,36.21045498669673
+dc brushless motors designed for use as paper drivers in photocopy machines,8515,8501,False,8501 | 8441 | 9018,74.02665955367577
+a multi-unit production mailing machine used for collating various papers and inserting them into large envelopes,8472,8441,False,8441 | 8479 | 3923,41.56843196663421
+"a novelty gift set consisting of a clear plastic drawstring pouch, a ball-chain with a plastic pendant, a picture frame, a set of printed cards with matching envelopes, and a spiral-bound notebook",7326,3923,False,3923 | 7315 | 3926,10.835309135881571
+"a 101-piece tool set that includes various hand tools such as sockets, wrenches, pliers, hammers, screwdrivers, and a blow mold case",8206,8204,False,8204 | 8206 | 8203,50.25594060962861
+a plastic bathtub sling used to support an infant while bathing,3924,3922,False,3922 | 9401 | 6111,28.17493697002921
+battery-operated electric chart drives designed for measurement recording instruments,8501,9015,False,9015 | 8516 | 9031,25.012334905458104
+a silk sheet,3504,3921,False,3921 | 3920 | 4202,29.319774667907012
+unfinished trashcans made from stainless steel sheets that are fabricated for assembly in the united states,7323,7307,False,7307 | 8215 | 3920,13.330920811823658
+hydraulic valve lash adjustment elements,8412,8481,False,8481 | 8412 | 3916,72.58449136618971
+a scooter hop-up repair kit,8204,8205,False,8205 | 8483 | 8481,12.316083276088962
+a foam insulated plastic jug designed to be attached to a bicycle frame,3923,8512,False,8512 | 3926 | 3925,33.85455848789351
+a hose assembly machine and push-on tools used in the production of hydraulic hoses,8479,4009,False,4009 | 3917 | 8479,30.635594157589935
+"a casio desk top printer, model fr-2650dt",8470,8443,False,8443 | 8472 | 9023,50.46224756853025
+"a silicone sheet, fishing skirt, and unfinished fishing skirt material",3920,3926,False,3926 | 6104 | 3921,13.200468889682279
+"an lcd module, a tube holder, and a 5-relay board used in laboratory equipment",8531,8537,False,8537 | 8538 | 8479,21.486136558638073
+a 6-pattern nozzle and adjustable nozzle with swivel for outdoor lawn and garden use,8481,3924,False,3924 | 8201 | 8481,11.201616375624528
+"a multi-tool floral snip with base metal blades that articulate on a pivot, featuring a fine-edged knife blade and a serrated knife edge, designed for one-handed use and includes a fitted nylon storage/carry case",8201,8211,False,8211 | 8207 | 8203,54.566496942287955
+low noise block down-converters with feedhorn used for satellite television reception,8525,8529,False,8529 | 8528 | 8504,49.981575948232056
+"machinery used in the production of no nail, foldy pac boxes, which includes machines that punch, shear, and bend metal strips to create hardware for wooden packaging",8462,8441,False,8441 | 8466 | 8207,7.753879604195331
+juvenile safety gates made of steel frames with wood or metal vertical bars designed to restrain children within a room,7323,7308,False,7308 | 3926 | 8205,8.653585638774286
+"industrial knife blades designed for machinery used in various applications such as printing, food packaging, and plastic film converting",8208,3920,False,3920 | 8443 | 8211,26.501645287007168
+a bop cup tester used in oil well drilling operations,9026,7326,False,7326 | 8431 | 8481,8.819425439081806
+"albuterol, a bronchodilator drug imported in bulk form from india",2922,2933,False,2933 | 2921 | 2905,27.544947597617714
+unisex knit sweatpants and sweatshirt made of 50% cotton and 50% synthetic fibers,6111,6110,False,6110 | 6111 | 6112,20.462947285907518
+"a laminating machine used to heat seal photos, licenses, and membership cards in plastic sleeves",8515,3926,False,3926 | 8466 | 8515,12.906489667899338
+a men's cycling pant constructed from a three-layer laminated fabric with a brushed knit inner layer and additional knit fabric on the sides,6103,6110,False,6110 | 3921 | 6103,24.53929683856292
+a locomotive excitation system designed to upgrade existing operating facilities on general motors sd and gp locomotives,9032,8501,False,8501 | 9029 | 9018,10.608523269507721
+dental drills and related instruments used in dental implant procedures,9021,9018,False,9018 | 9021 | 8207,45.44124594309522
+a cell-cast cable splicing kit,3909,8203,False,8203 | 8544 | 7323,9.457545511692027
+a spout insertion machine used in a packaging line for containers filled with salt,8441,3923,False,3923 | 8479 | 7311,49.72343225308807
+hyperd ceramic chromatography sorbents used for protein purification,3914,3906,False,3906 | 3914 | 3504,45.86577687295964
+"benzoyl peroxide, 3,4-diaminopyridine, and 4-methyl-3-(1h-imidazole-2-ylamino)-n-(3-trifluoromethylphenyl)benzamide",2916,2933,False,2933 | 2903 | 2916,72.14288430475641
+"toddlers wearing apparel including a boys' t-shirt, shorts, and a shirt, as well as a girls' shorts and a pinafore",6113,6103,False,6103 | 6106 | 6113,35.47839183868746
+girls nightwear consisting of a long-sleeved pullover and a pair of trousers,6110,6104,False,6104 | 6108 | 6110,10.82376943109126
+a drinking water remineralizer and replacement cartridge,8479,8443,False,8443 | 8481 | 8205,9.85774175366867
+"thermal screw piles made of galvanized steel, used for supporting structures and insulated to prevent frost build-up",7326,7308,False,7308 | 7318 | 8481,60.57007798391394
+a foam classpack kit that includes foam sheets and self-adhesive stickers,3926,3919,False,3919 | 3926 | 3921,53.12939806489084
+a securmag used to stabilize a fork lift,8505,8215,False,8215 | 8425 | 8428,11.403557824849875
+a 10-piece garden tool kit consisting of various gardening tools and accessories,8207,8201,False,8201 | 8211 | 8207,75.72883016389707
+"a thermometer/clock that displays time, date, indoor temperature, and receives outdoor temperature readings via a remote sensor",9030,9025,False,9025 | 9027 | 3921,69.42387589739009
+"benzyl acetate natural, raspberry ketone, tridecenal natural, and laevo linalool natural",2915,2906,False,2906 | 2915 | 3926,30.801975969746426
+"fabric grids, canvases painted with a design, and dyed muslin backdrops",9006,7323,False,7323 | 3926 | 3921,17.07276005071756
+a steel disk used in a dezurik rotating consistency transmitter,9027,8525,False,8525 | 7318 | 8543,15.819948099515688
+a pellicle used in the manufacturing of microelectronic chips,8486,7229,False,7229 | 3402 | 8410,15.81562965371656
+a hay baling machine and a bale wrapping machine,8433,8438,False,8438 | 8477 | 3920,15.003304501211948
+scotseal classic and scotseal xl automotive components,4016,3402,False,3402 | 8512 | 3913,21.532845694640894
+"a cardigan made from knitted pile fabric of 100% cotton, characterized by a full-front zippered opening, a hood, and loosely rib-knitted waistband and cuffs of long sleeves",6111,6110,False,6110 | 6101 | 6111,69.2179008461547
+"automotive dashboard gauges including a speedometer, tachometer, fuel gauge, temperature gauge, oil pressure gauge, voltage gauge, and a telltale module",9029,9026,False,9026 | 9029 | 9032,58.70180515955763
+drop-in ice/beverage dispensers designed to chill and dispense soda and non-carbonated beverages,8418,8481,False,8481 | 8413 | 8479,26.41732690591512
+riki ii blocking pads made of cellular polyurethane used in the manufacture of optical lenses,3919,3926,False,3926 | 3921 | 9001,25.820185879543605
+red oak hrsg piping materials,8402,3926,False,3926 | 3921 | 8479,8.058804803515143
+polyethylene plastic slats and tracks for privacy fences,3922,7606,False,7606 | 3923 | 3916,32.937051273754186
+"steel poles used in the level 10 erector rack, a professional painters drying rack assembly",7306,7323,False,7323 | 7318 | 8481,9.546703050389667
+men's and women's long sleeve thermal undershirts and thermal underpants made of 60% cotton and 40% polyester,6107,6109,False,6109 | 6108 | 3926,62.52188746084452
+steel dog kennels made of galvanized steel chain link fencing,7308,7315,False,7315 | 7326 | 7306,52.99616208980725
+"water garden products including pond liners, molded garden ponds, fountain nozzles, and tubing",3920,3924,False,3924 | 8413 | 8424,48.366711937382895
+the blast guard dispersion suppressive foam system,6307,8424,False,8424 | 3921 | 8481,32.093078574155626
+"a smartphone-sized device that measures blood pressure, electrocardiogram (ekg), temperature, blood glucose, blood oxygen, and weight, and is intended for remote patient monitoring and chronic care management",9018,9027,False,9027 | 9018 | 8526,32.63922828704494
+p-anisaldehyde (cas # 129-11-5),2921,2912,False,2912 | 8481 | 2933,73.66683635188723
+a child's knit union suit and cap made from 100% cotton,6107,6112,False,6112 | 7307 | 6111,7.811417352862726
+"an infrared laboratory instrument used to test milk and dairy products for fat, protein, and carbohydrate (lactose)",9027,9024,False,9024 | 3504 | 9027,27.10150385592315
+"an electric screwdriver in the form of a pistol, fully rechargeable, hand-held power tool, packaged in a gift box with bits mounted on the side",8467,8205,False,8205 | 8467 | 8516,41.1625447971589
+"various electrical apparatus including wall switches, lamp holders, socket adapters, taps, and incandescent and fluorescent plug-in lights",8539,8536,False,8536 | 9018 | 8512,51.84137780895177
+pvc composite door jambs,3916,3925,False,3925 | 7606 | 3921,28.55160991678329
+"3,4,5-trimethoxybenzaldehyde, 2,4-difluoroaniline, m-chloroaniline, 4-fluoroaniline, and 3-chloro-4-fluoroaniline",2912,2921,False,2921 | 2912 | 3926,68.16567389395725
+"a personal heating and cooling device known as the chameleon ms4, designed to be worn around the neck and utilizes a battery-powered thermoelectric heat pump",8479,8414,False,8414 | 9018 | 8516,5.191094007575554
+"hot finished, seamless, carbon steel tubing/pipe with an outside diameter ranging from 2 inches (50.8 mm) to 26 inches (660.4 mm) and a wall thickness ranging from .375 inches (9.525 mm) to 3.25 inches (82.55 mm)",7304,7306,False,7306 | 7304 | 3920,73.82065269003493
+"parts of fuel dispensers including feedline tube assemblies, framing and housing components, canopy assemblies, electrical bezel assemblies, and cosmetic skins",7411,8413,False,8413 | 8414 | 8538,16.32943106044471
+"a bus stop shelter, newsstand, and newspaper dispenser",7308,8481,False,8481 | 8512 | 8537,8.72549554320739
+steel step cans,7323,7616,False,7616 | 7323 | 7318,37.05653967395603
+fumaric acid derived from benzene from japan,2917,2902,False,2902 | 2917 | 2916,25.419177446727392
+a custom-built mobile stand for transporting a trent xwb gas turbine engine,8716,8411,False,8411 | 3923 | 8466,14.649981207754811
+"intensive care infant warmer units, specifically the babytherm 8004 and 8010",9018,6111,False,6111 | 9018 | 7321,51.625057851963376
+a current control unit used in transoceanic cable systems,9032,8412,False,8412 | 9032 | 8536,5.803226827893373
+"a polyresin wall plaque, key chain, and magnet from china",3926,7315,False,7315 | 8505 | 8205,24.29994433728932
+"temperature controls used in air conditioning, refrigeration, or heating systems",9032,8481,False,8481 | 9032 | 8415,24.542721471253323
+clips and caps for starter motors,7326,8511,False,8511 | 8536 | 3923,22.852500478883734
+a fixa 8-piece tool set,8202,8206,False,8206 | 8467 | 8207,66.40772269121548
+a convection/microwave oven used for high-speed cooking and regeneration of multi-portion dishes,8514,8516,False,8516 | 9031 | 3921,29.65066513786115
+a complexed polysaccharide gel forming polymer used in drilling operations,3920,8431,False,8431 | 3906 | 2925,10.799796732729401
+an automated tape library system used for mass storage and automatic retrieval of data,8471,8523,False,8523 | 8471 | 9031,28.28775165673453
+"solid state storage drive (ssd) models: sf 2405, sf 4805, sf 9010, and sf 9605, with 64 gb, 128 gb, 256 gb, and 256 gb of system memory, used for data storage and recovery in a storage cluster",8471,8523,False,8523 | 8471 | 9031,62.7531228857552
+"a man's knit ski-suit constructed from polyester and spandex, featuring a mock turtle neckline, front zipper, long sleeves with thumb holes, and a covered zipper fly",6112,6110,False,6110 | 6112 | 8479,72.28809588082453
+autotig 250-4 welding unit and mu 111 orbital welding heads,8523,8517,False,8517 | 8515 | 8467,50.14540192708882
+a pod connection cable used in medical equipment,8544,9018,False,9018 | 8536 | 7312,33.61988014500952
+lawn mower tires designed for low-speed rated use on riding and standing lawn mowers,4011,4016,False,4016 | 8433 | 8407,35.305476303884085
+"a membralox filtering system for water and wastewater that includes a ceramic membrane, stainless steel housing, gaskets, a backpulse device, and a backpulse cabinet",8421,8481,False,8481 | 3926 | 8410,12.956256518935819
+"a countertop installation kit that includes a file, screws, adhesive, silicone sealant, particle board pieces, cleaner, brackets, and instruction manuals",8203,3506,False,3506 | 3920 | 3926,59.44962351971844
+steel assembly hardware sets used for assembling furniture,7318,7326,False,7326 | 7318 | 8204,33.332733141547195
+"a one-piece playsuit constructed of knit 85% nylon and 15% spandex fabric, featuring short sleeves, a zipper front closure, and short legs, imported in boys sizes 3t-4t",6114,6112,False,6112 | 6114 | 6106,10.988409919613696
+recycled/regrind thermoplastic polyetherimide,3911,3907,False,3907 | 4003 | 3909,28.272752040992742
+easter egg decorating kits,3926,3920,False,3920 | 3926 | 8479,23.724572305797047
+a brush grubber bg-18 heavy duty root buster used to cut tree and brush roots,8201,8479,False,8479 | 8201 | 7323,20.845911087042133
+quick-release and screw-on pneumatic and hydraulic hose couplers,8481,8412,False,8412 | 8481 | 8415,36.06223392554915
+personnel baskets from italy or sweden,8431,7323,False,7323 | 3920 | 8465,7.647334976883585
+"an lcd tv subassembly, a main board, and an accessory kit",8532,9013,False,9013 | 9018 | 8481,35.83097266996424
+a road marking re-striping system designed for automatic renewal of old road markings,8479,8536,False,8536 | 9013 | 3920,10.52141536876867
+various shims used in hydraulic and mechanical applications,8413,8479,False,8479 | 8481 | 8412,10.04078008141708
+"a hy-vent waste connector made of nickel plated brass that screws onto a 1/4"" pipe and allows air to escape from a system",7412,8481,False,8481 | 8536 | 7318,32.12621970097893
+"hydroquinone (photo grade), cas#123-31-9, from china",2907,2914,False,2914 | 3926 | 2912,7.908324482706126
+a multi-format video signal generator that produces video and audio reference signals used in digital broadcast environments,9030,8528,False,8528 | 8525 | 9030,31.38792591037222
+metallized capacitor film,3920,8532,False,8532 | 3920 | 8479,43.21774035102497
+pulvitec teflon tape,3920,3919,False,3919 | 3926 | 9031,24.26959217043537
+automotive repair kits containing various tools and emergency items,3925,8205,False,8205 | 8211 | 8207,20.63070206764303
+a pressure differential activated chamber testing system and a membrane-substrate bond tester,9031,9027,False,9027 | 9030 | 9026,17.85813027277274
+temporary steel clamps used to hold sheet metal or similar material together while working with the material,8205,3921,False,3921 | 8205 | 7318,15.903145590301342
+"a portable pet bath made of pvc with a steel frame, designed for bathing domestic animals, and includes a carrying case",3922,4202,False,4202 | 3922 | 3926,17.08010866594016
+butane powered torches and soldering irons,8205,8515,False,8515 | 2905 | 8467,66.52786254485056
+a cardboard box projector that uses a smartphone to display images on a wall,9013,9008,False,9008 | 8528 | 8471,59.24996043796017
+"the en100 diagnostic center set, rectifier and converter from germany",9018,8504,False,8504 | 9027 | 8207,22.534236781876054
+"wire fencing grills (roll-top fencing), fence posts, and gates from south africa",7314,7308,False,7308 | 7312 | 6307,9.260324852274875
+"women's knit jacket and trousers made of cotton, polyester, and elastane",6102,6104,False,6104 | 6101 | 6105,71.55499577792513
+ultrasonic generator and ultrasonic converter,8504,9031,False,9031 | 8536 | 8515,13.598071391713566
+leapfrog explorer learning games and leappad ultra ebook,8523,9018,False,9018 | 7326 | 9025,6.412605775048166
+"a furniture fix set consisting of six interlocking panels made of pvc plastic, designed to provide support under seat cushions or mattresses",3916,3926,False,3926 | 3916 | 9401,19.73334435948634
+girls' cotton tops and panties,6114,6108,False,6108 | 6114 | 6106,21.646160108222986
+heat shrinkable lay-flat tubing and bags used for enclosing cold meats or cheeses,3923,3917,False,3917 | 3923 | 8516,72.72660588563154
+"a plastic-lined, alloy steel line pipe used in the oil industry",7306,7304,False,7304 | 7307 | 3917,32.34674989183205
+"novo deepclean plus can, novo mac 10x ff, novo surfclean c3 (deep clean outdoor), bi-chem xp 151, and porta-treat concentrate",3402,3507,False,3507 | 3402 | 9029,6.183755871440924
+a zippered shrink wrap bag designed to enclose and protect a snowmobile during shipping,3923,4202,False,4202 | 3923 | 3920,31.513561100554327
+"a water broom designed to remove dirt, grime, and debris from asphalt or concrete surfaces using water",8424,8479,False,8479 | 8424 | 8481,16.72302742726091
+"seamless square nonalloy steel tubes measuring approximately 1"" x 1"" with a wall thickness of approximately 0.053"" that are polyethylene electrostatic powder painted",7304,7306,False,7306 | 7304 | 3926,45.22158268593985
+an abs unit for anti-locking brake systems,8413,8412,False,8412 | 8413 | 8204,26.97200375295848
+eltrombopag olamine in bulk form,2933,2921,False,2921 | 2933 | 2917,18.85358779521743
+qpatch 16 and qpatch ht automated patch clamp systems,9030,8205,False,8205 | 8523 | 6110,13.266910139785153
+an ion-membrane electrolyzer used for producing chlorine gas and hydrogen gas,8543,9027,False,9027 | 8481 | 8543,8.361057448175535
+a stay put rug pad made of open mesh warp knit polyester fabric covered in foamed polyvinyl chloride plastic,3918,3921,False,3921 | 6108 | 3926,58.61379247496426
+an electrical displacement control for a hydraulic pump,8481,8413,False,8413 | 8536 | 8537,50.15228604471743
+wheel scribers used for cutting glass,8208,8479,False,8479 | 8205 | 8202,8.985726473729331
+"stepanfoam ri 9736-b, a b-component of a two-part polyurethane system used in the manufacture of rigid polyurethane foam products",3909,3921,False,3921 | 3909 | 8479,38.009292787740875
+"a self-propelled trenching machine designed for digging straight or curved trenches, featuring a 4-wheeled frame, a honda engine, and tungsten cutters",8430,8203,False,8203 | 8427 | 6110,8.17458700288146
+rigid thermal insulation boards made of high-density extruded cellular polystyrene,3921,3923,False,3923 | 3926 | 3921,16.750354917310414
+"tiropak packaging film used for packaging fresh meat, poultry, fish, pasta, cheese, and vegetables",3921,3920,False,3920 | 3923 | 3926,67.68303435695184
+"semi-tubular rivets made of brass, ranging in size from 6 mm to 10 mm in diameter and 25 mm to 60 mm in length",7415,8481,False,8481 | 7318 | 3920,15.78535482005977
+"methyl trichloroacetate, a halogenated derivative of a saturated acyclic monocarboxylic acid ester used as a pharmaceutical intermediate",2915,2916,False,2916 | 2915 | 2905,30.2784361885027
+a complete onland drilling rig package,8430,8431,False,8431 | 3923 | 8430,18.273998346328412
+a plastic foam playmat marketed for young children,3918,3926,False,3926 | 3921 | 3924,22.21864301721447
+"ruffle trimmed bikini bottom, size 6, made of 75% nylon and 25% spandex, fully lined with a covered elastic waistband and elasticized leg openings",6112,6108,False,6108 | 6112 | 6104,13.82406643755283
+door viewers,9013,3925,False,3925 | 8501 | 8708,14.703193754754688
+stainless steel and aluminum alloy half-cylinders used in blow molding processes,8480,8412,False,8412 | 8477 | 7606,19.708881599254735
+a molybdenum crucible used in a sapphire growing furnace,8486,8514,False,8514 | 9002 | 8207,21.05806341337071
+a spring coiler used for the in-line production of compression springs and tension springs,8463,7320,False,7320 | 8463 | 8205,37.67968486816349
+a fracture reduction simulation course kit,9023,8543,False,8543 | 9023 | 9018,25.52462306046292
+a heat shrink splice kit consisting of crimp terminal butt connectors and insulating shrink tubes,8536,3917,False,3917 | 8536 | 3923,49.48054414504093
+sodium chondroitin sulfate 90% (cas-39455-18-0) from brazil used in nutritional supplements,3913,3923,False,3923 | 8481 | 2925,8.101944396754364
+"pvc pipes that are manufactured in the united states, exported to mexico for processing, and then returned to the united states",3917,7411,False,7411 | 8466 | 9018,29.513018346039072
+taps used in multispindle automatic machine tools to produce internal threads,8207,8466,False,8466 | 8481 | 7318,9.210929077290343
+a flush light that functions as a replacement flush handle for toilets and also serves as a night light,8481,8205,False,8205 | 8481 | 6108,23.142057275651602
+water-based print pastes (adhesives) used in transfer printing of textiles and flock papers,3506,3204,False,3204 | 8443 | 8442,28.55453820771418
+a baby sound machine,8519,8527,False,8527 | 8519 | 6111,14.977737475665934
+a racing style threaded aluminum wheel center nut used for mounting an automotive wheel to the hub,7616,7318,False,7318 | 8482 | 8205,21.863918623996646
+wire mesh tubing and flexible tubing used in automotive combustion engine exhaust systems,8708,3917,False,3917 | 8409 | 7306,43.336498725523654
+a lawn aerator,8201,8433,False,8433 | 8432 | 8472,44.593518143528534
+a fluid pressure system that tests the integrity of fluid channels within a heat exchange system,9026,9032,False,9032 | 3914 | 3921,7.609649577931675
+portable cellular mobile hotspots that provide broadband connectivity by receiving signals from cell towers and broadcasting a wireless wi-fi signal,8517,8528,False,8528 | 8527 | 8525,21.341263637597507
+backhoe buckets,8431,3926,False,3926 | 8430 | 8431,33.560736764879266
+a car wash conveyor roller kit that consists of rollers and chains,8431,7315,False,7315 | 8482 | 3926,27.441689098200378
+shock absorber components including crimp rings and washers used in motor vehicles,8708,4016,False,4016 | 8708 | 7318,21.0281189360528
+zero perm foil vapor barrier and zero perm pressure sensitive tape,3921,3919,False,3919 | 3921 | 9026,72.49702879871482
+"an art and craft kit that includes various tools such as pliers, scissors, a heat gun, and a handheld vacuum",8518,8203,False,8203 | 3506 | 8472,48.46209417876246
+a galvanized hog waterer and a stainless hanging livestock watering outlet,8436,8481,False,8481 | 7306 | 6110,23.7022596019905
+a mold for chocolate candy production made of polycarbonate,8438,8480,False,8480 | 3920 | 3923,10.366393107544818
+a women's boxer brief designed to create the appearance of male genitalia,6108,8205,False,8205 | 6108 | 8481,7.7003694892588515
+mouse traps and rat traps made of plastic and steel,7323,3926,False,3926 | 3923 | 3507,12.467563612585053
+"repro-ptfe, in powder form, obtained from manufacturing waste",3904,3913,False,3913 | 3915 | 2906,10.791459360929927
+an intelligent video system designed for use in pharmaceutical laboratories that facilitates drug compounding by monitoring and validating ingredients and dosages,9031,8479,False,8479 | 9027 | 3926,9.22839514976268
+a plastic sack used in blood dialysis machines,8421,9018,False,9018 | 3926 | 3923,26.17628278824134
+a plastic sheeting dog barrier with metal poles,3924,3923,False,3923 | 3921 | 3922,9.378341323918086
+a nail/tack/brad assortment,7317,8205,False,8205 | 3923 | 7317,5.2874044586581626
+"seven nonwoven lining fabrics made from man-made fibers and plastics, designed to simulate leather",3924,5603,False,5603 | 4202 | 3921,43.75875349776413
+"golf putter components including unfinished putter head, shaft, brass pins, rubber grip, and neoprene cover",9506,8481,False,8481 | 8203 | 7321,5.492921849235605
+"a multi therapy system that combines light therapy, thermotherapy, chromatherapy, aromatherapy, and sound therapy, designed for home use and includes an electric heater, nebulizer, essential oils, lights, and an mp3 player",8516,9018,False,9018 | 8516 | 9019,26.583637579424185
+tub and toilet safety bars made of epoxy coated aluminum,7615,3922,False,3922 | 8205 | 8481,24.709007681256537
+plastic pallets and tote pans used for transporting goods,3923,3916,False,3916 | 3923 | 8716,22.486537927399986
+a battery clamp kit,8536,8205,False,8205 | 8507 | 9030,20.56405812609773
+a yamaha go46 mobile audio interface unit,8471,8473,False,8473 | 8479 | 9001,8.156253606219622
+"a women's poncho-like garment made of 100% cashmere knit fabric, featuring a turtleneck, sleeveless design, and no front or back opening",6114,6102,False,6102 | 6110 | 6114,43.97487977662408
+a women's synthetic leather coat,3926,6102,False,6102 | 3926 | 3921,59.91672742279667
+aluminum folded tubes used in vehicle radiators,8708,7411,False,7411 | 8483 | 7616,8.931874068747577
+interlocking foam tile mat,3918,3921,False,3921 | 3918 | 8481,36.17793876494979
+a spring-operated mechanism for high voltage circuit breakers,8412,8481,False,8481 | 8516 | 8536,20.346478803166406
+"stainless steel gas vent system components including pipes, fittings, joiner bands, firestops, and wall thimbles",7312,7307,False,7307 | 7321 | 8481,40.45977166586297
+a communications tower constructed of hot dipped galvanized steel used for radio and television transmission/reception,7308,8529,False,8529 | 7308 | 8525,26.16109774011326
+"3-octyl acetate natural, octyl acetate natural, natural nerolidol, n-butyl acetate natural, and methyl-2-methyl butyrate",2912,2915,False,2915 | 2914 | 3926,69.58644816690122
+a combined knifeware and shears sharpener that includes a ceramic whetstone for knives and a carbide sharpening element for shears,8205,8211,False,8211 | 8201 | 8205,27.564355874157997
+"a comfort hold callus shaver, classic tweezer set & case, and shape & shine manicure kit",8205,8203,False,8203 | 8211 | 4202,61.3883056793393
+"rpc-43, rpc-122, rpc-123, rpc-149, and smb-12 used in compact disc coatings",2915,9018,False,9018 | 3907 | 2933,3.8840193447515317
+a sleep sound soother machine,8519,6107,False,6107 | 8519 | 6108,29.232993236725346
+"gas furnace units, model numbers mgh96m060b3a, mgh96m080b3a, mgh96m080c4a, mgh96m100c5a, mgh96m100d5a, and mgh96m120d5a",7322,8415,False,8415 | 8413 | 8430,12.349915614808367
+"automobile parts including taillamp lens, parklamp lens, taillamp assembly, parklamp housing assembly, and taillamp bezel",9001,8512,False,8512 | 8511 | 8481,10.864444916741578
+a mobile patient monitoring system that includes various medical sensors and a wireless communication device,9018,9025,False,9025 | 9018 | 8526,12.422508222570421
+corrugated polycarbonate light transmitting panels,3916,3920,False,3920 | 3923 | 3916,22.52392811606418
+various attachments for a powered weed trimmer,8432,8467,False,8467 | 8414 | 8201,51.615793432827616
+natural squalene (cas 111-02-4) used as a health food supplement,2901,3926,False,3926 | 3913 | 9018,5.727038815991648
+"doming decals made of plastic, designed for rigorous applications such as on agricultural, construction, transportation, and outdoor power equipment",3919,3926,False,3926 | 8504 | 3922,9.748265530750954
+a magnet ring from china,8512,8505,False,8505 | 8515 | 8483,55.1876532348325
+a tail lamp lens used on mazda automobiles,9001,8512,False,8512 | 8511 | 3921,32.060763316703635
+"embroidered chenille patches and sweatshirts, including sweatshirt parts, embroidered in haiti from haiti",6111,6110,False,6110 | 6113 | 3926,18.527910748084345
+silicone rubber self-adhering and self-fusing tape,3920,3919,False,3919 | 3926 | 8479,56.263490072071576
+"components used in the manufacture of pneumatic cylinders, specifically a tube end, a body, a piston/labyrinth, a pin actuator, and a rod",8302,8412,False,8412 | 3926 | 8409,46.09732431143862
+"an explosion-proof electric air heater used in areas with flammable liquids, gases, or vapors",8516,8479,False,8479 | 8516 | 7309,30.560643470670996
+"hot finished, seamless, carbon steel tubing/pipe manufactured to specifications astm a-519 and astm a-106 b, with an outside diameter ranging from 2 inches (50.8 mm) to 26 inches (660.4 mm) and a wall thickness ranging from .375 inches (9.525 mm) to 3.25 inches (82.55 mm)",7304,7306,False,7306 | 7304 | 3920,66.2399303141575
+"boys and girls pants sets made of jersey knit fabric with cotton and polyester blends, sized for infants and toddlers, and assembled in jordan from components cut in china",6112,6111,False,6111 | 6116 | 3926,34.0331271697568
+fuel injection nozzles used in compression-ignition engines,8481,8413,False,8413 | 8412 | 8481,21.341627168804763
+aromatic thermoplastic resins,3911,3907,False,3907 | 3909 | 3911,27.128149438880243
+"profile material advu-25, product number 302593, used in pneumatic systems",8412,8481,False,8481 | 3921 | 8412,13.427797938383076
+"a set of hand-held gardening tools including a trowel, transplant trowel, fork, claw, and mounting rack made of heavy aluminum",8207,8201,False,8201 | 8207 | 8205,38.059704398042335
+an automatic vodka filling line from china,3926,8481,False,8481 | 8515 | 8424,21.641540755898035
+wall covering fabrics made of coated and impregnated textile substrates,3918,3921,False,3921 | 3918 | 8534,34.21620193749942
+laminated polyethylene wrap used for wrapping chocolate truffles,3921,3920,False,3920 | 3921 | 3923,43.95764144090313
+"bonsai tools including shears, tweezers, rake, and tool set",8205,8203,False,8203 | 8201 | 8207,45.84767382737665
+"a capacitive touch screen assembly enclosed in a bezel, intended for use with gaming machines",8537,8473,False,8473 | 8471 | 3926,9.349489544391892
+a netatmo weather station,9025,9015,False,9015 | 3921 | 9025,71.57027577786548
+printed labels for batteries,3919,4911,False,4911 | 7615 | 3920,12.364573433314527
+"video game controllers designed for the nintendo switch console, including both wired and wireless models, packaged with a zippered case",8526,9015,False,9015 | 8517 | 8528,5.0529672655885625
+dynabeads m-450 and m-280 from norway,3917,3926,False,3926 | 8479 | 8483,4.58298959981383
+digital x-ray detectors,9030,9022,False,9022 | 9031 | 8533,68.21013783577902
+"pneumatic and electric vibrator motors used for compressing, transporting, and unloading bulk materials",8412,8428,False,8428 | 8501 | 8467,24.793165482028314
+a cigar humidor made of stainless steel with a wooden top and wrapped in faux leather (plastic),7323,8205,False,8205 | 3926 | 7318,17.773495332683378
+a machine system for heat treating and straightening metal rods,8514,8516,False,8516 | 3916 | 8514,10.783130105573324
+"n-(diphenylmethylene)glycine ethyl ester, cas no. 69555-14-2",2925,2909,False,2909 | 3907 | 2930,23.63381813384182
+a light emitting capacitor (lec) panel,8543,8532,False,8532 | 8479 | 8528,50.815071700661676
+multilayer plastic sheeting used for digital printing on woven fabrics,3920,3921,False,3921 | 3920 | 8443,49.69825074511442
+eyeglass frames and eyeglass frame parts,9014,9003,False,9003 | 9018 | 3925,37.95952255019019
+a gravure rotary press and associated equipment used for printing,8443,8426,False,8426 | 8443 | 3920,38.83525056045099
+"potato protein concentrate and edible modified potato starch (""skronet"")",3504,3505,False,3505 | 3913 | 3504,21.382931527331753
+a 151-pc. highway emergency kit,8536,8205,False,8205 | 3920 | 3506,31.086667398898822
+"a radial-axial ring rolling machine, type raw 63/63-1600/380e",8455,8482,False,8482 | 8455 | 8479,5.629506386535588
+a women's knit jacket made from 100% polyester fleece,6102,6101,False,6101 | 6102 | 6108,46.62668426580608
+"a 9-piece tool kit including a claw hammer, long nose pliers, utility knife, carpenter pencil, triangle square, measuring tape, screwdrivers, and a tool apron",8207,8211,False,8211 | 8206 | 8203,50.65284638859106
+men's and boys' basketball jerseys and shorts made from 100% polyester knit fabric,6110,6103,False,6103 | 6110 | 6101,78.64060473313144
+"an engine assembly consisting of a 2.2 liter, 4-cylinder, common rail, fuel-injected diesel engine with a cylinder capacity of 2,179 cc, including attached mounting brackets and hoses",8408,8407,False,8407 | 8409 | 8412,40.53574345281556
+"phenytoin, pseudoephedrine sulfate, and quetiapine fumarate",2933,2922,False,2922 | 2915 | 2933,13.342597289594831
+a botox injection amplifier,9018,9021,False,9021 | 9018 | 8481,27.80276162659336
+an air switch used for pneumatic transmissions,8481,8467,False,8467 | 8425 | 8481,27.822431030891043
+a mass flow meter designed to measure gas flows in gas chromatographs and gas chromatograph/mass spectrometers,9026,9027,False,9027 | 9026 | 8481,41.416262882192775
+pit liner pedestal and walkway used in hydroelectric power plants,7308,8410,False,8410 | 8413 | 8504,26.242995268089032
+"vacuum cleaners, specifically the neu52 series, which includes upright, electric-powered models designed for household use with a power rating of 960w and a dust receptacle capacity of 4.1 l",8518,8508,False,8508 | 8467 | 8516,66.19575972076775
+bagging equipment including automatic bag placing machines and bagging scales,8423,9031,False,9031 | 8423 | 3923,15.588828479797492
+"synthetic organic dyes used in leather processing, specifically avalan fast navy r conc, avacor black tt, avalan fast red brown ahl, avalan fast brown alh, and avacor brown ent",3204,3214,False,3214 | 3924 | 3921,7.4104860500767575
+tarpaulin material and finished tarpaulins from china,3926,3921,False,3921 | 3926 | 4008,67.4191280906217
+a women's knit cardigan and pants set made from cotton and spandex,6105,6110,False,6110 | 6105 | 6111,20.836424511398064
+"a boy's knit playwear set consisting of a sweatshirt and a pair of coordinated sweatpants, made of 70% cotton and 30% polyester, featuring long sleeves, concealed loops, a napped interior, appliques, and ribbing at the neck, sleeve cuffs, and bottom",6103,6110,False,6110 | 6111 | 6109,48.112884056812725
+"vulcanized silicone reinforced with glass fabric, unvulcanized silicone reinforced with glass fabric, and unvulcanized unreinforced silicone used in flexible silicone heater pads",3910,3921,False,3921 | 3910 | 3917,56.01037326784807
+"a bamboo tea canister containing green tea, two bamboo coasters, a wooden tea tray, two mugs, and a tea infuser, all packaged in an acetate box",3923,8516,False,8516 | 7326 | 8481,16.16770441597697
+sodium cyclamate and calcium cyclamate,2929,2924,False,2924 | 2915 | 3906,25.971219600961177
+molds and jigs used in the production of commercial grade ice and water dispensers,8480,8481,False,8481 | 8480 | 8479,20.652965156608445
+sleepwear for infants and childrenswear made from cotton or cotton/spandex blends,6108,6111,False,6111 | 6105 | 6107,76.35655090230368
+"a girls a-line sweater made of 97% cotton and 3% polyester, featuring a double-breasted front, a fabric drawstring at the waist, and set-in long sleeves, imported in sizes 3 to 18 months",6111,6110,False,6110 | 6111 | 6106,43.75150095602678
+"winch components including a winch frame, intermediate gear, and winch drum",8431,8483,False,8483 | 8425 | 8479,36.34275354462034
+parking meters and steel posts from south africa,7315,7308,False,7308 | 9032 | 7317,45.03758973688988
+a crimping tool included in a highway emergency kit,8203,8205,False,8205 | 8206 | 8203,33.53127467885748
+shock absorbers and chock separators used in cranes and rolling mills,8431,8455,False,8455 | 8431 | 4016,36.983249761215106
+screws and roofing plates from taiwan,7326,7318,False,7318 | 7317 | 7321,38.23995535669857
+an evaporator fan motor for a refrigerator,8515,8414,False,8414 | 8501 | 8503,50.839025025003984
+"boss small pet first aid kit, boss large pet first aid kit, and boss bike repair first aid kit",3506,8203,False,8203 | 3923 | 3920,36.982177896339756
+"various cosmetic chemical ingredients including liponate pc, lipovol a, lipovol alm, lipovol g, lipovol p, clear jojoba oil, lipovol o, lipolan, lipolan distilled, lanolin oil, lipolan 31-20, lipocol c, lipocol s, lipocol sc, lipocol cs-604n, and stearic acid",2917,3923,False,3923 | 2906 | 2915,8.589522789001702
+"structural steel doors, windows, and frames",7317,7308,False,7308 | 3925 | 3920,69.66814470605478
+radial ball bearings and housed ball bearings,8483,8482,False,8482 | 8483 | 3926,69.68285832271101
+"a two-piece garment set consisting of a crew neck pullover with long sleeves and ankle-length pants, both made of fine knit cotton fabric, designed for children and labeled as underwear",6108,6113,False,6113 | 6110 | 6111,30.041893911734068
+"cookware parts including an aluminum rivet, a phenolic handle with a stainless steel insert, and a stainless steel lid with a phenolic handle",7616,7615,False,7615 | 8205 | 7323,25.33940804481047
+"windlasses, anchors, bow rollers, anchor chain, anchor connectors, chain stoppers, chain links, anchor rope, electrical switches, and circuit breakers used in marine applications",7318,8538,False,8538 | 7315 | 7320,48.31962030037224
+chloroacetone (cas 78-79-5) used as a pharmaceutical intermediate,2901,2914,False,2914 | 2930 | 2906,24.596911875270024
+magic anti-slip mesh,3921,6108,False,6108 | 3921 | 7314,14.311250340084433
+a used dunnage bag making machine,8479,8515,False,8515 | 8441 | 4202,18.601634805876802
+"an eyebrow kit containing a nylon pouch, metal tweezers, eyebrow gel, and an angled brow brush",8205,8203,False,8203 | 8205 | 3926,74.04451674827403
+"a babies 2-piece play set made of fine knit velour fabric, consisting of a long sleeve shirt and pull-on pants, imported in infant sizes",6112,6111,False,6111 | 6105 | 3917,77.90144622102694
+tire inflators with gauge and tire inflators with gauge and gun,8481,9026,False,9026 | 8481 | 6110,64.10613508127237
+women's jean-style pants made from synthetic leather,3926,6104,False,6104 | 3926 | 4202,69.76869817032907
+"ophthalmic apparatus including slit lamps, tonometers, retinal cameras, ophthalmometers, screenscopes, lensmeters, vision testers, auto chart projectors, and operation microscopes",9022,9018,False,9018 | 9011 | 9027,52.39989325007235
+picks and mattocks,8201,8205,False,8205 | 8201 | 3926,30.058544162104962
+a cat6a unshielded toolless keystone jack,8536,8425,False,8425 | 8204 | 3926,74.04558391314752
+decorative tubular netting made of polyethylene with a glitter effect,3917,3920,False,3920 | 3926 | 3901,29.207083454552297
+a roll of polyethylene film that is preprinted for use as packaging bags for fresh vegetables,3920,3923,False,3923 | 3920 | 3926,59.454364296034115
+a compressed gas injection system designed to enhance the injection molding process using pressurized nitrogen gas,8414,7311,False,7311 | 8481 | 8477,23.78900038370021
+"bathroom stall door hardware including stainless steel and aluminum hinges, brackets, and pan head sheet metal screws",7321,7318,False,7318 | 7308 | 8205,47.25254204289979
+"sapphire lenses, windows, and substrates made from synthetic sapphire",9015,9002,False,9002 | 8473 | 3926,22.320840299221363
+men's cotton knit sleep/lounge pants and shorts,6107,6103,False,6103 | 6107 | 6104,48.610483813791625
+a fluid processing/control skid used in gas turbine fuel delivery systems,8413,8481,False,8481 | 8413 | 8412,24.93296333006484
+a high-performance coated separator for ev batteries made of microporous polyethylene,3926,3921,False,3921 | 8481 | 3923,60.581375688361916
+synplast dinp (cas # 68515-45-7),2917,2915,False,2915 | 2916 | 8481,9.452727796893663
+"microcare cph, a preservative containing 100% chlorphenesin used in personal care products",2909,8205,False,8205 | 3402 | 8471,9.89293040596181
+hot stabs used in sub-sea oil and gas drilling operations,8412,8431,False,8431 | 7304 | 8481,37.791193882007406
+"a fillister head kit consisting of helical spring lock washers, square head set screws, and slotted fillister head screws",7323,7318,False,7318 | 7320 | 8205,74.16285059281044
+"a women's 100% wool, knit, sleeveless poncho-like garment that is pulled over the wearer's head, extending from the shoulders to below the chest and featuring a roll down collar",6114,6102,False,6102 | 6114 | 8205,76.4546303009555
+stainless steel boiler tubes used in heat exchangers,7306,7304,False,7304 | 7323 | 7606,65.3413534587786
+mens knit tank tops made of 100% cotton from thailand,6110,6107,False,6107 | 6109 | 6111,27.30280429830786
+"girls' knit wearing apparel including a sleeveless dress, a tank top, and a drop-waisted blouse",6104,6106,False,6106 | 6114 | 6111,39.29728945643095
+"pipe fitting parts used for bypass pumping, irrigation, or fluid transfer",7326,8413,False,8413 | 3917 | 7307,34.45373308629909
+soft air goggles and soft air red dot sights,9031,9018,False,9018 | 8414 | 9004,13.452234257160523
+"a ladies underwear set, style no. lm04, made from 100% cotton knit fabric, consisting of a top with long sleeves and a bottom with long legs",6109,6113,False,6113 | 6111 | 6108,12.140273539452517
+"artists panels made of acrylonitrile butadiene styrene (abs) plastic, used as watercolor canvases, which may be in the form of rectangular plates or cradle panels",3920,3926,False,3926 | 3903 | 3916,17.028635681091497
+girls' underwear set consisting of a knit brief and a cropped top made of 100% cotton,6114,6113,False,6113 | 6109 | 6114,27.463744599978874
+a sleeveless dress made of 100% cotton and a short-sleeved sweater made of crocheted cotton for girls,6204,6110,False,6110 | 6111 | 6112,71.1657331632556
+seamless steel pipe imported from japan,7306,7304,False,7304 | 7312 | 7411,70.57598225742791
+a vehicle speed sensor assembly,9029,9026,False,9026 | 9029 | 8481,45.09279994974314
+"a smoke measurement system designed to measure smoke density, consisting of a smoke measuring head, control unit, power supply, flow control unit, and vacuum pump, utilizing americium 241 as a radioactive source",9022,9031,False,9031 | 8531 | 9022,14.873014771036003
+"an indoor security camera system that captures and records video, has a microsd card slot, and includes a two-way talk intercom feature",8525,9031,False,9031 | 8528 | 8543,9.561217161887518
+a foot operated firewood splitter,8465,8481,False,8481 | 8205 | 8483,10.074583795596213
+"an electronic handheld whistle used by coaches, referees, and trainers",8531,9018,False,9018 | 8467 | 3923,11.914699927335636
+"a stainless steel comb, ice scraper, mirror, spanner/wrench, collar stiffeners, and buttons",8207,8215,False,8215 | 8204 | 8205,9.317106684830804
+"mobile phone accessories such as headsets, connectors, capacitors, and batteries",8539,8532,False,8532 | 8525 | 8536,12.82446069281339
+"various polyurethane, isocyanate, and polyester resins from france",3917,3909,False,3909 | 3911 | 3921,48.03036351016981
+"automobile dashboard gauges including a speedometer, tachometer, fuel gauge, temperature gauge, oil pressure gauge, voltage gauge, and telltale module",9028,9026,False,9026 | 9029 | 9032,55.605222473544245
+a tire pressure maintenance system that allows the driver to adjust tire pressures from the cab of the vehicle,8481,9026,False,9026 | 9029 | 8481,37.8986834139669
+parts of an underwater breathing apparatus known as an air regulator,9020,8481,False,8481 | 9018 | 9020,14.829038386765156
+ntn-2-16-2 insulation paper,3920,8441,False,8441 | 3921 | 8205,22.12598664969823
+a women's knit cardigan and pants made from 92% cotton and 8% spandex,6105,6104,False,6104 | 6110 | 6111,37.64182965690555
+automotive power pack assemblies,8515,8512,False,8512 | 8504 | 8479,25.979113591181864
+christmas packaging tape,3919,3923,False,3923 | 7323 | 3919,20.404911799181637
+polyethylene mesh fencing material,3920,3921,False,3921 | 6307 | 3923,40.18934383112147
+"ammonium benzene sulfonate (ammonium besylate, cas# 19402-64-3)",2904,2930,False,2930 | 2917 | 2902,22.79469829171912
+monitors from south korea,8532,7317,False,7317 | 8512 | 9027,14.343057593850773
+"a set of toddler garments consisting of a boys shirt and pants made from 100% cotton knit fabric, and a girls shirt and pants made from 100% cotton knit fabric, both featuring a pumpkin motif and designed for sizes 2t, 3t, and 4t",6116,6103,False,6103 | 6106 | 6105,55.21776413235059
+bridal headpieces made of plastic and artificial flowers,3926,9021,False,9021 | 3918 | 3926,16.078601791200676
+"a handheld, lightweight electric scissors designed for cutting various materials, battery-operated, with replaceable metal blades encased in plastic housing",8467,8516,False,8516 | 8202 | 8467,10.868638227864285
+a liquid crystal display module/panel and a box module for a flat panel television,9013,8528,False,8528 | 8529 | 9013,28.501400622534074
+"a set top box used for the transmission of television signals, specifically the apple tv",8525,8529,False,8529 | 8525 | 8528,31.824769656931156
+blowout preventers used in oil and gas drilling operations,8481,8431,False,8431 | 8481 | 3402,35.20879760440776
+a pump jack and a scaffolding pole used in a scaffolding system for construction tasks,8425,7308,False,7308 | 8425 | 8413,58.26961967205997
+polytetrafluoroethylene (ptfe) tape,3920,3916,False,3916 | 3904 | 3915,32.35287751280999
+"a non-automatic home clothes washing machine with a single agitation cycle, a dry linen capacity of 5.5 kg, and may or may not have a timer device or a drain pump",8450,8481,False,8481 | 8450 | 8451,15.677936799025534
+a motor mount seal used in air conditioning units,4016,8415,False,8415 | 8501 | 8414,32.523993638277645
+"natural fairness shower gel, natural fairness facial foam, natural fairness liquid soap, natural fairness soap bars, and natural fairness hydrating lotion",3402,7323,False,7323 | 3926 | 3921,8.45980057982704
+electronic centrifugal switches (starters) used for single-phase electric motors,8536,8501,False,8501 | 8536 | 8479,44.46008967577641
+a women's tank top made of 100% silk knit fabric,6110,6109,False,6109 | 6108 | 6113,79.75169559344279
+"heating systems designed for yachts and motor homes, specifically the hurricane ii, oasis, and waterheater models",8516,8414,False,8414 | 8481 | 8516,9.70733356563721
+mens knit tank tops made of 100% cotton from pakistan,6110,6109,False,6109 | 6107 | 6110,41.391354423319086
+"an emergency kit containing various cosmetic and personal care items, including earring backs, towelettes, nail polish, and a sewing kit, all stored in a pouch made of polyurethane",4202,8205,False,8205 | 3506 | 3923,23.59170915499512
+"message boards, chalk, and plastic sheets",3921,3920,False,3920 | 3921 | 6307,13.62949038328121
+boys' velour tracksuit consisting of a loose-fitting pair of trousers and an unlined jacket with a hood,6104,6103,False,6103 | 3926 | 6112,36.26100245527322
+an air line oiler used in pneumatic power systems,8412,8467,False,8467 | 8481 | 8504,39.79705619001468
+a closed loop pyrolysis system designed to convert waste plastic into fuels,8419,8412,False,8412 | 3926 | 8441,12.764032915100954
+adhesive tapes made of polypropylene and paper film,3919,3920,False,3920 | 3919 | 3926,56.48522909529539
+woven stainless steel tapes,7326,7314,False,7314 | 7307 | 7308,12.392765942263757
+solid polyvinyl chloride (pvc) panels and smaller planks intended for wall coverings,3920,3918,False,3918 | 3916 | 3920,33.55487526071053
+a teleprompter base and tripod adapter used in professional digital photography and videography,7616,9006,False,9006 | 9002 | 9018,12.678783949229933
+an adapter for an ecg recorder,9018,8504,False,8504 | 8519 | 9006,13.865273870426789
+a mechatronic transmission control unit and a hybrid power control unit,8481,9032,False,9032 | 8425 | 8502,28.128171927628102
+a neutral bar assembly and a lug assembly used in electrical circuits,8535,8536,False,8536 | 8538 | 7318,39.37922341921989
+"brass plated steel tire cord made up of 9 filaments of wire, where two filaments are twisted together to form a two-filament strand and seven filaments are twisted around that strand",7312,3916,False,3916 | 8481 | 6110,14.535322028212741
+"dental instruments including an explorer, cotton and dressing pliers, and a dental mirror from taiwan",9022,9025,False,9025 | 9018 | 8479,41.6617809766824
+a hyperplex immunofluorescence system designed for multiplex fluorescent immunohistology assays,9027,8531,False,8531 | 9027 | 3204,9.810607133095035
+"woven wire cloth used in equipment designed to sift, size, and filter different minerals or materials, made from grades 65mn and swrh72a nonalloy (carbon) steel or grade 304 stainless steel, imported in various mesh sizes and with or without hooks",7314,8481,False,8481 | 7314 | 7615,11.920881375806431
+ez stud out broken stud removal tool kits,7616,8207,False,8207 | 3921 | 8481,14.700922525090085
+a steel battery housing container,7309,7323,False,7323 | 8507 | 7317,7.5790513869027905
+"an aneroid sphygmomanometer without a cuff, consisting of a manometer and inflation bulb, featuring a trigger deflation valve and a luer lock adapter for cuff interchangeability",9018,8481,False,8481 | 9018 | 8504,50.49157136069397
+"woven wire cloth used in equipment designed to sift, size, and filter different minerals or materials, made from grades 65mn and swrh72a nonalloy steel or grade 304 stainless steel, imported in various mesh sizes and with or without hooks",7314,8481,False,8481 | 7314 | 7615,10.348628290404204
+"generator control unit (gcu) part number 51525-001b, trimmable horizontal stabilizer actuator (thsa) part number 47145-010, and synchro-shaft lock part number ty2080-20",8412,8501,False,8501 | 8412 | 3907,16.58848773457592
+"an outdoor gift set that includes an axe-saw, a match kit, fire bellows, and tinder shreds",8202,8201,False,8201 | 7321 | 3926,16.0891711885892
+piling elastomers used in vibratory hammers,8431,8205,False,8205 | 8430 | 3910,44.618365192809414
+a 399 piece automotive electrical repair kit,8203,8536,False,8536 | 8203 | 8544,24.80714469931458
+"enerzan l, liquislide salt, ces primary, ces secondary, and ces wetting agent",3824,8479,False,8479 | 3926 | 3402,7.440157679192756
+a queen anne console table and mirror set,7009,9403,False,9403 | 3920 | 8543,44.96971250729564
+a rod end manufactured in germany consisting of a steel forging with a bore in which a ball joint swivels upon a modified teflon race liner,8483,7307,False,7307 | 8482 | 9018,10.708227992952233
+cresol red sodium salt (cas # 62625-29-0),2914,2907,False,2907 | 2909 | 8479,10.45013576517957
+fluorene (cas 86-73-7),2902,3904,False,3904 | 2912 | 2916,8.306368267404988
+"pole line hardware including line post studs, steel crossarm pins, eyelets, and eyenuts",7318,7326,False,7326 | 7308 | 7318,44.26809006436238
+diethylvinylcarbinol (cas # 115-18-4),2905,2925,False,2925 | 2909 | 2911,41.754370796845826
+tree harvesters and harvesting heads,8436,6307,False,6307 | 8479 | 8424,16.376772852359615
+a carbide tip hole cutter,8207,8203,False,8203 | 8209 | 8205,34.63349986574891
+polyvinylchloride (pvc) powder used in the manufacture of faux leather products for automotive interiors,3912,3921,False,3921 | 3901 | 3920,63.183891862137145
+"a file cabinet, a tool chest with roller cabinet, and a portable tool box containing pliers",9403,8207,False,8207 | 8203 | 8206,44.80773671398906
+a t3 shaft unit for a bow/stern thruster system,8412,9018,False,9018 | 8413 | 8529,5.986867236016156
+a transparent lace-like camisole made of 100% polyester knit fabric and a transparent mesh-like slip made of 100% polyester knit fabric,6109,6108,False,6108 | 3920 | 6110,52.17194686584501
+"an optical power meter used for installation, maintenance, and repair in fiber optic networks",9027,8205,False,8205 | 3916 | 8504,12.266487028337174
+"a wiring harness with ceramic heater for oxygen sensor, a wiring harness for oxygen sensor, a wiring harness for power slide door system, a wiring harness with switch for seat system, and a wiring harness with gps antenna",8535,8544,False,8544 | 9020 | 9025,19.414539555148593
+a combo axe with a fixed blade knife,8201,8211,False,8211 | 8201 | 8202,49.08385499758403
+toddler boys and girls shirts made from 100% cotton,6105,6110,False,6110 | 6116 | 6109,14.312036645877601
+"a radiator hose made of silicone rubber, intended to serve as a conduit for engine coolant in trucks",3917,4009,False,4009 | 3917 | 3926,8.119013206320833
+dual decoilers designed to feed metal working presses and punching lines,8466,8207,False,8207 | 8479 | 8203,18.860903592773035
+a solar controlling additive used in pmma sheets to absorb infrared light,3824,3920,False,3920 | 8479 | 3921,14.89359267300188
+"an aquarium starter kit containing various components such as a dip net, digital thermometer, air pump, heater, and pvc tubing",9025,9027,False,9027 | 3917 | 7321,14.137613072101562
+high purity copper plated discs used in semiconductor sputtering tools,7409,8486,False,8486 | 8536 | 8481,17.556731771051822
+a craftsman table saw with stand,8465,8466,False,8466 | 8202 | 8465,36.303334267067505
+hydroxylamine hydrochloride (cas # 5470-11-1),2825,2932,False,2932 | 2921 | 2825,18.838743329524434
+nox sensors used in selective catalytic reduction systems in vehicles,9027,9018,False,9018 | 9029 | 8413,9.86231512572695
+"a brass stud or tie rod, with silver plating, used as the main support post for an anti-collision light assembly in a twin-engine commuter plane",7415,7318,False,7318 | 8481 | 7308,11.35408680712205
+process vessels used in the treatment of polypropylene plastic,8419,3920,False,3920 | 3924 | 3917,10.804737893848186
+"calcipotriene, dronabinol, and meprobamate",2906,2924,False,2924 | 9020 | 2916,20.087918392583592
+a photomask compact used in the transport and storage of photomasks for semiconductor wafer production,3923,8486,False,8486 | 3926 | 3920,12.893845051127132
+a plastic washbasin designed for bedridden patients to facilitate hair washing,3922,8516,False,8516 | 8450 | 3926,10.246747803085025
+a mountable wall sink with faucet made of polypropylene,3922,8481,False,8481 | 3920 | 3917,37.37217678090574
+"arabinoxylan (cas no. 9040-27-1), a polysaccharide derived from wheat straw, imported in powder form and sold to companies in the food and beverage industry",3913,2933,False,2933 | 3907 | 9027,10.085245421235891
+naloprotex g2 sausage casings made of high strength woven polyester fabric with a plastic polymer coating,6307,3921,False,3921 | 3917 | 9019,11.782120502975264
+the eyedetect system used for screening job applicants to determine deception on written applications,9031,9027,False,9027 | 9031 | 7326,16.118289709861518
+"a set of assorted hooks including vinyl-covered hooks, nails, and mounting hardware",7323,3926,False,3926 | 7318 | 3919,17.796515718461617
+humidifiers and an air purifier,8509,8415,False,8415 | 8479 | 8519,12.341882260021176
+a peritoneal dialysis cycler set,9018,3920,False,3920 | 8205 | 8481,6.544023741734777
+"a set of sunglasses with a hard-sided carrying case, a cloth pouch, and a cleaning cloth",9004,4202,False,4202 | 9004 | 7323,23.63662333357623
+parts of trolley assemblies for logging machinery,8483,7318,False,7318 | 8431 | 8438,14.856641897347044
+"2,6-diisopropyl phenol, a pharmaceutical intermediate",2907,2930,False,2930 | 2907 | 2914,29.03860435548591
+"a vehicle measuring system designed for use in automobile repair and body shops, consisting of a metal beam with two high-definition digital cameras, a handheld pointer with led lights, a pc with proprietary software, and related accessories",9031,8471,False,8471 | 9031 | 9015,4.611950711934101
+a miter saw stand,8466,8465,False,8465 | 8466 | 8202,45.005459397532526
+a meal and play mat made of unsupported pvc plastic sheeting,3920,3921,False,3921 | 3926 | 3920,32.77925959972788
+"printed circuit boards, a surface mounted connector, and a socket connector",8534,8536,False,8536 | 8534 | 8529,56.67598257185155
+mens sleep joggers made from 60% cotton and 40% polyester,6103,6107,False,6107 | 6110 | 6111,54.474932744773476
+"a 4-piece bath set consisting of a waffle weave shower curtain, shower liner, 12 double metal rollerball hooks, and a terry bath mat",3926,3924,False,3924 | 3922 | 7315,58.83226514559067
+"an expedition kit that includes a hatchet, flashlight, folding saw, shovel, multi-tool, and a nylon pouch",8207,8202,False,8202 | 8205 | 9018,43.27404255422459
+"3-nitrobenzaldehyde, 2-bromothioanisole, and 4,6-dichloro-2-methylbenzylamine",2912,2933,False,2933 | 2930 | 2912,18.681041771367646
+a soft clip made of polycarbonate plastic that secures goggles to the wearer's face,9003,9004,False,9004 | 9003 | 3920,43.19333744080843
+"a handy-plier versatool that functions as a hammer, pliers, wrench, pipe wrench, wire cutters, and nail puller, made of drop forged heavy gauge steel with red vinyl hand grips",8205,8203,False,8203 | 8205 | 8204,56.703235295951
+fluorene (cas no. 86-73-7),2902,2916,False,2916 | 3904 | 2933,14.205700339615957
+"1,2-ethoxybenzene, a pharmaceutical intermediate and flavoring agent",2909,2930,False,2930 | 2914 | 2909,22.173696390374616
+men's knit garments including a shirt and various pullovers made from cotton,6105,6110,False,6110 | 6105 | 6113,69.66321937985602
+2-naphthylamine 1:5 disulphonic acid (cas # 117-62-4),2921,2915,False,2915 | 2916 | 2904,32.842741679022566
+"a vertical cable system (vcs), extension, tensioner, and rope grab device",7312,7326,False,7326 | 7312 | 9018,8.24042637411167
+meta-phenoxybenzyl alcohol and meta-phenoxybenzaldehyde,2916,2907,False,2907 | 2912 | 2906,32.974343408376974
+computer controlled brake systems designed for locomotives and trains,8481,8412,False,8412 | 9024 | 8461,21.601239293893208
+dry nonwoven wipes packaged in plastic containers from china,5603,3923,False,3923 | 5603 | 3926,39.89202191617589
+"safety equipment including earphones, a panoramic facial protector, and a facial mask with filters",9025,9020,False,9020 | 3923 | 3924,37.533421634026084
+a cylindrical-shaped electric heating device used in plastics manufacturing machinery,8419,8516,False,8516 | 3923 | 8480,27.054443410569974
+"dimethylamine borane, cas 74-94-2",2929,2905,False,2905 | 2906 | 2911,3.8215736420907844
+a headphone pulse sensor with voice guidance and a digital fm radio,9029,8527,False,8527 | 9006 | 9029,52.33413397902095
+a scaffolding jack,7308,8425,False,8425 | 7308 | 3926,49.73515600261433
+a hydraulic motorcycle lift stand,8428,8425,False,8425 | 8412 | 8413,39.28643308922467
+automotive loudspeakers imported from mexico,8483,8518,False,8518 | 9021 | 3920,45.92650999162202
+a three needle recording g-meter used to register gravitational stress on an aircraft,9014,9029,False,9029 | 9028 | 9018,7.513589442357363
+"a hex nut, bolt retainer, internal-external lock washer, and a pal locknut",7323,7318,False,7318 | 3926 | 7616,74.2090560406336
+"a miter trimmer designed for trimming wood fibers, featuring a cast iron body, high carbon tool steel blades, and angle presets for cutting at 45 degrees and 90 degrees",8465,8205,False,8205 | 8467 | 8466,6.598633860869126
+a toddler girls' jacket made of knit polyester coated with pvc,6113,3926,False,3926 | 6116 | 6113,31.6918927148977
+"an extendable tree pruner designed to cut tree branches and limbs, consisting of a pruner/clipper head, a saw head, and an aluminum telescoping pole",8466,8201,False,8201 | 8466 | 8202,50.55377144417933
+4-penten-1-al (cas # 2100-17-6),2912,2930,False,2930 | 2905 | 2921,15.057497818529644
+deluxe solar blanket and emergency solar blanket,3926,6113,False,6113 | 8205 | 3920,18.081397915280263
+a power juicer,8509,8504,False,8504 | 8413 | 8467,59.576964871569814
+a video magnifier camera from china,8528,8525,False,8525 | 8528 | 8529,37.0165274589812
+firefighting equipment including a mop-up kit and a collapsible back tank,8413,8481,False,8481 | 9027 | 3926,9.01693447516651
+the housing of a warm air hand dryer made of non-alloyed gray cast iron covered with white porcelain enamel,8516,7323,False,7323 | 7321 | 8481,61.49173767345374
+a hydrogenation degasser offgas eductor,8413,8481,False,8481 | 9023 | 3926,6.408184113646199
+a bicycle toy figure that spins in the wind,9503,8512,False,8512 | 3926 | 9015,8.846812142032979
+packaging material composed of a metallized polypropylene/polyethylene laminate that is printed and used for food packaging,3921,3920,False,3920 | 3921 | 3923,35.099463939446565
+a metal container side striping system,8424,7312,False,7312 | 7317 | 3923,29.67488296056227
+"condensers, outdoor components of a heat pump system, and a dehumidifier",8415,8479,False,8479 | 8415 | 8418,24.567715783989343
+"a large oval glass wall mirror in a wooden frame designed for bathroom use, featuring a wooden shelf and two wooden drawers",7009,9403,False,9403 | 7009 | 8205,48.769696867303615
+"liponate pc, a cosmetic ingredient with the inci name propylene glycol dicaprylate/dicaprate",2917,2915,False,2915 | 3923 | 3902,13.622340830956855
+"heliogan, amberonne, and p-anisaldehyde",2932,2912,False,2912 | 2932 | 9020,63.10201149849149
+"fasteners, specifically various types of lag screws, drive screws, drive hooks, and a pole plate with lag",7326,7323,False,7323 | 7318 | 7326,43.63693192902211
+an emergency roof repair kit containing various tools and materials for roof repairs,9031,8205,False,8205 | 8203 | 3921,53.40864802487953
+a dm 30 ii blasthole drill,8430,8431,False,8431 | 8466 | 8467,13.026715785683765
+an electro-surgical instrument handle used in various surgical procedures,9018,9021,False,9021 | 9018 | 8204,38.35516897282839
+"various threaded and non-threaded fasteners designed for permanent installation by having sheet metal partially crimped around them, including studs, threaded and non-threaded nuts, and pins",7323,7318,False,7318 | 7321 | 8207,49.01915747123951
+motor vehicle turbo-charger hoses,8708,8414,False,8414 | 3917 | 8501,7.2495253527105605
+polyethylene silage bags,3917,3923,False,3923 | 3917 | 3920,62.347586070540075
+"master box, smart box, and noflame plus heating unit",8423,9029,False,9029 | 9018 | 8516,17.883501429919775
+"app compound c-128, a polymer blend used as a blending agent for asphalt",3901,3402,False,3402 | 3906 | 8205,11.94705070050122
+hydraulic bushing and elastomeric bushing used in automotive suspension systems,2905,8487,False,8487 | 8481 | 8431,26.525740598400873
+"engine parts including a piston, connecting rod, a pin, rings, and snap ring used in spark-ignition engines for passenger vehicles",8409,8412,False,8412 | 8409 | 8483,50.629177043503326
+caprylic acid (cas # 124-07-2),2915,2917,False,2917 | 2916 | 2915,40.024607204001114
+veterinary pacemakers,9021,9018,False,9018 | 3923 | 4009,33.24279005966752
+a forklift assembled in china with a u.s. manufactured engine and various components,8430,8427,False,8427 | 3925 | 8481,50.785296605216125
+three plastics coated textile upholstery fabrics from china,5903,3921,False,3921 | 5903 | 3923,74.8929285252517
+"a tapeffiti design guide book that includes a spiral bound design guide, twelve rolls of fashion tape, and a manual tape cutting device",9503,8479,False,8479 | 3919 | 3926,42.95497569677041
+two plastic lazy susan type organizers and a plastic 3-tier organizer from china,3924,3923,False,3923 | 3924 | 4202,17.09833121351682
+starter motor parts including a pinion assembly and drive kits,8511,8483,False,8483 | 8501 | 8412,22.985056101763725
+sodium xylene sulfonate (cas#1300-72-7) from turkey,2904,2915,False,2915 | 8415 | 2930,7.126940921514842
+"a clear oven safe baking bag composed of 100% nylon, measuring 19 inches by 23.5 inches, marketed as a turkey-sized bag for cooking meats and poultry",3923,4202,False,4202 | 3923 | 3921,13.373488927240684
+n10-trifluoroacetyl pteroic acid,2933,2916,False,2916 | 2915 | 2930,25.59701809232327
+"a mini supply kit that includes a stapler, staples, paper punch, staple remover, scissors, pencil sharpener, and tape dispenser",8211,8472,False,8472 | 8467 | 3923,20.525310022561342
+a coronary stent,9021,9018,False,9018 | 6110 | 3926,4.931159085677253
+"a furnace used to centrally heat a home, which can be imported with or without an electric add-on option",8516,7326,False,7326 | 8516 | 8514,30.56384679024428
+golf club sensors used in conjunction with a golf tracking system,8543,9029,False,9029 | 9031 | 7326,13.04241519399518
+"a handy-plier versatool made of drop forged, heavy gauge steel with red vinyl hand grips, functioning as a hammer, pliers, wrench, pipe wrench, wire cutters, and nail puller",8205,8203,False,8203 | 8205 | 8204,53.901382793624585
+metallized plastic garlands made of pvc,3921,3926,False,3926 | 3920 | 3916,25.930050397067145
+an aperion intimus 4t summit wireless 5.1 home theater system and an hdmi digital wireless home theater one preamp transmitter,8518,8525,False,8525 | 8527 | 8516,47.812071962976994
+an automatic flip-flop downstacker,8441,9032,False,9032 | 8481 | 8424,16.542117394410848
+complete escalator handrails,8436,9020,False,9020 | 9022 | 9029,17.85077835223429
+"a 4 piece sleepy time gift set for infants that includes a bodysuit, lap-shoulder tee, hat, and a door hanging pillow",6113,6111,False,6111 | 6113 | 6114,64.65769099110487
+the ultraflex flooring system used in farrowing and nursery pens for sows and piglets,3925,7308,False,7308 | 9018 | 8516,13.44688092334291
+a plastic mat designed to protect floors under personal exercise equipment,3926,3921,False,3921 | 3926 | 8536,10.24531535907039
+a women's knit cardigan and pull-on pants made of 95% cotton and 5% spandex,6105,6104,False,6104 | 6105 | 6110,54.66506795454777
+6-o-acetylsucralose (cas # 105066-21-5),2933,2915,False,2915 | 2930 | 2912,20.076809033831797
+"plastic utensils used in commercial food preparation, including shovels, hand scoops, trays, utility forks, fodder scoops, spatulas, stirrers, and round bowl scoops",3924,8215,False,8215 | 8207 | 3924,38.36345140450882
+"rough forgings, semifinished products, and finished products made of alloy steel, specifically die keys used in forging hammers",8466,7307,False,7307 | 8205 | 8207,30.039589252040415
+parts of folding knives,7318,8211,False,8211 | 8441 | 8208,67.23194463165814
+an acrylic roller shade,3925,3906,False,3906 | 3925 | 3922,38.99317943542573
+plastic canteens with nylon covers,3923,3926,False,3926 | 3923 | 3921,35.26624665729268
+rf receiver components used in vehicle remote control central locking systems,8529,8526,False,8526 | 8481 | 8529,19.735560279488666
+100% 4-phenylaminobenzenediazonium salt with 4-methylbenzenesulfonic acid-formaldehyde polymer used as a binder in a coating solution for pre-sensitized printing plates,3911,3909,False,3909 | 3911 | 2930,48.04450987001967
+an electric generator used in an analytical x-ray diffraction system,8501,9022,False,9022 | 8501 | 8502,48.276191707792854
+"a portable, hand-held electronic device designed to measure system vacuum levels and pressure pulsations in milking machinery",9026,9024,False,9024 | 9029 | 3922,12.476400652043422
+an epoxide resin jointing compound used for rubber flooring,3907,4016,False,4016 | 3907 | 3214,14.626032700440136
+"automatic teller machines (atms) that do not accept deposits but allow cash withdrawals, balance checks, and account transfers",8472,9031,False,9031 | 8481 | 8473,8.105849749441855
+3-d peel & stick letters and numbers,3919,8442,False,8442 | 9001 | 8205,29.244077349255853
+boy's knit nylon shorts that are not swimwear,6103,6112,False,6112 | 6103 | 6114,65.76597247708426
+"a set of toys including a rolling rattle bear, a spinning paddle bunny, a rocking rattle bird, plastic wheels for toy vehicles, plastic animals and people, a weather vane, a net for a pool toy, screws, nuts, and an inflation needle",9503,3926,False,3926 | 9503 | 9015,13.904404397426124
+polyisobutylene in clay form used for auto detailing,3902,8207,False,8207 | 8205 | 3920,11.960129127460013
+copolymers of acrylonitrile-butadiene-styrene (abs) and blends of abs with methylstyrene-acrylonitrile-styrene,3913,3903,False,3903 | 3917 | 3916,69.72073772078446
+rolling scissors,8205,8455,False,8455 | 8467 | 8482,38.180757208493546
+"touch of france makeup, touch of france makeup tray, horror flesh makeup, gel blood makeup, and liquid latex",3506,3923,False,3923 | 3926 | 9018,7.383417305009162
+a liberty cable set used to connect a vascular x-ray system,8544,9022,False,9022 | 9018 | 8481,53.990979866007685
+junction box assemblies used to transfer electricity through solar panels,8544,8501,False,8501 | 3920 | 7318,8.909201415464873
+clad steel line pipe,7304,7306,False,7306 | 7307 | 7304,13.58994755723553
+"accu-edge disposable blade dispensers, blade holders, replacement blades, and scissors",8208,9018,False,9018 | 8201 | 8211,15.57137027239796
+plastic strips and extrusions used to form doctor blades and paper machine cleaning elements,3926,3916,False,3916 | 8441 | 3926,50.53980264192831
+"a fisherman's caddy kit that includes a plastic universal hip plate, three plastic adapters for fishing rod grips, a pair of needle nose pliers, and a hand towel",8207,8203,False,8203 | 3926 | 3924,32.010754788299536
+"a 28-piece fastener tool kit including a glue gun, glue sticks, staple gun, various tools, and an assortment of fasteners packaged in a zippered vinyl case",4202,8211,False,8211 | 4202 | 3506,19.44905111810482
+"girls sleepwear including a closely-fitted pullover tank top, loosely-fitted trousers, and loosely-fitted shorts",6110,6108,False,6108 | 6110 | 3926,28.03980899016934
+"a glass cutting board, 4 glass coasters, and 4 stainless steel cheese spreader knives",8215,8211,False,8211 | 8215 | 7321,42.17253970936238
+square steel perforated holes post,7326,8205,False,8205 | 7409 | 7306,20.81054763491841
+"housed linear ball bearings, housings, and shaft supports for linear ball bearings from japan",8483,8482,False,8482 | 8483 | 6307,65.31000127971049
+"a set of hand tools for splicing, threading, crimping, and working with coaxial cables",8203,8205,False,8205 | 8207 | 8536,32.632622763380496
+a left hand exhaust manifold assembly and a can pipe for a catalytic converter,8409,7307,False,7307 | 8481 | 8409,19.18787079581071
+a spring-operated motor used in chart recorders,8412,8501,False,8501 | 8481 | 7320,38.328652123083515
+a usb digital bible keychain,8523,8205,False,8205 | 8471 | 3926,21.48498961563623
+girls and women's wearing apparel including shorts and capri pants made of synthetic fibers,6110,6104,False,6104 | 6103 | 6108,40.173178672608664
+"a pool party pack containing plastic diving rings, plastic squirtees shaped like sea creatures, water bombs, pearl divers shaped like clams, and swim goggles, all packaged in a man-made fiber sports bag",9031,3923,False,3923 | 9004 | 3926,37.703453526687255
+a blow molded plastic container designed to hold grease for a battery-powered lubricating pump,3923,8413,False,8413 | 3923 | 3402,25.002545235210782
+a boys' shirt and pants set made of 100% cotton knit fabric with a pumpkin motif,6104,6103,False,6103 | 6113 | 8466,48.77681974919057
+5-chloro-2-nitrobenzotrifluoride (cas # 118-83-2),2904,2916,False,2916 | 2903 | 2906,11.6337119233807
+"black alloy steel pipes meeting astm a53, type e (electric resistance welded), grades a and b, schedule 40, with outside diameters ranging from 21.3 mm to 457 mm and wall thicknesses from 2.77 mm to 14.27 mm, used for the transference of air and fluids",7306,7305,False,7305 | 7306 | 3920,41.33825938996959
+"a fiberglass-reinforced plastic walk-in tub with a large walk-in door, deep soaking dimensions, a built-in chair-height seat, and a textured floor",3922,9401,False,9401 | 3925 | 3921,16.033516401690427
+a hot water dispenser system that includes a storage tank and a valve assembly,8516,8481,False,8481 | 8516 | 8471,71.35612460185604
+aluminum shower door components,7615,3925,False,3925 | 7616 | 3922,19.083814922180466
+guide wheels and components for trolley assemblies used in logging machinery,8482,7318,False,7318 | 8483 | 8482,30.112433149332546
+"two thermoplastic resins, hikotack c-120 and sukorez su",3911,3909,False,3909 | 3907 | 3926,26.342669461087947
+coil tubing reels,7326,3917,False,3917 | 9018 | 8509,25.451767806010935
+"an electric coffee grinder, an espresso/cappuccino coffee maker, and a frothing pitcher",8509,8516,False,8516 | 7323 | 8509,69.55183826942934
+surestore produce bins and surestore berrybins,3923,9006,False,9006 | 6110 | 3926,4.711514806288305
+camlock fittings and rubber sheets from china,3926,3920,False,3920 | 7412 | 7307,25.920685648754887
+"an underwear set for girls consisting of a pair of cotton panties, a cotton pullover, and a zippered vinyl carrying case",6114,6108,False,6108 | 4202 | 3926,16.01913329181868
+aluminum silicon polymer thermal spray powder,3907,7606,False,7606 | 3911 | 8424,38.635454232373206
+"five upper body garments including a girl's fleece top, a women's blouse, and oversized women's cardigans",6106,6110,False,6110 | 6106 | 6105,18.97700245221571
+furfural (cas 98-01-1) from china,2932,3507,False,3507 | 2906 | 2905,18.53692030294135
+"a tool set that includes slip-joint pliers, a mini-flashlight, precision screwdrivers, and a blow-molded case",8211,8207,False,8207 | 8211 | 8206,40.77956810213105
+"a personal hygiene appliance that is installed on a toilet, similar to a bidet, which sprays water and blows air, with models that include heating elements for water and air",8516,8481,False,8481 | 3922 | 9018,19.33487587777755
+polyvinyl alcohol sheets and blocks from japan,3921,3905,False,3905 | 3920 | 3926,38.84121742360798
+"bulk dressings made of polyurethane plastics sheeting, measuring 10 cm square with a thickness of 0.6 mm, backed with release paper, and intended for individual wrapping and sterilization",3919,3921,False,3921 | 3926 | 3920,40.71361580099098
+silicone and acrylic sealants from mexico,3214,3926,False,3926 | 3920 | 3910,25.11321647173357
+an automotive part identified as the otr right hand front door panel (part # mr392622),8708,8501,False,8501 | 8708 | 3925,6.958992423026156
+wood/plastic composites used for construction and fencing applications,3926,3922,False,3922 | 3921 | 7326,49.73819396694537
+"a woman's knit garment constructed from 70% acrylic, 30% wool, featuring a shirt-type collar, long sleeves with buttoned cuffs, and a full front opening with an eight-button closure",6110,6102,False,6102 | 6110 | 6106,38.39404625866574
+"viton cord measuring approximately 3.7 mm in diameter, imported in material lengths",3916,7318,False,7318 | 3920 | 3921,19.845847934801732
+"drill bit sets suitable for wood, plastic, and metal",8207,8466,False,8466 | 8467 | 8207,22.836374188479258
+a wood post bracket and corresponding locknut,7318,8205,False,8205 | 8536 | 7318,39.32215866513682
+cement plugs used in oil and gas well casing and cementing,4016,7326,False,7326 | 8481 | 7304,10.478250565797348
+"powdered chemical preparations intended as additives in skin care products, color cosmetics, bath and shower products, antiperspirants, and deodorants",3402,3507,False,3507 | 3923 | 8413,11.389699709585503
+"storage hooks, magnetic catches, lag shields, wall anchors, and l-hooks",7321,7318,False,7318 | 8505 | 7323,37.38017447456172
+five adhesive tapes (duct tapes) from indonesia,3921,3926,False,3926 | 3506 | 8483,30.28274247076361
+men's knit underwear from israel,6107,6113,False,6113 | 6114 | 6110,18.66237685061467
+a remote sensor drive assembly,8487,8428,False,8428 | 9026 | 8501,11.966627082912613
+s-3-(2-hydroxy)ethoxy-4-trityloxybutan-1-ol,2930,2914,False,2914 | 2905 | 2909,32.231784300450904
+"pantrofina olv, a chemical intermediate used in cosmetics that is 99% squalene",2901,2916,False,2916 | 2906 | 3909,8.391749348336802
+a pez dispenser,3923,8481,False,8481 | 3923 | 3916,44.539254357223186
+a wireless weather station,9025,9015,False,9015 | 9025 | 8517,56.0664361310329
+"a sleeveless leotard with an attached mini-dress, a pair of knit pull-on pants, and a hat designed for dance recitals",6114,3926,False,3926 | 6104 | 6103,11.094442832496533
+an automatic hog stomach splitting and cleaning machine,8438,8451,False,8451 | 8424 | 8211,9.185884426776374
+a 99 piece emergency roadside kit,3925,3506,False,3506 | 8211 | 8205,21.081792755218025
+electrical connector housings,8538,8536,False,8536 | 8538 | 8537,31.349548658879378
+a silicone handguard designed to allow users to touch doorknobs and elevator buttons without direct contact,3926,8205,False,8205 | 3910 | 8428,12.589343946642959
+a hydronic heating system and air heating system from poland,7326,8537,False,8537 | 8516 | 8481,16.859745575897943
+hyperseal v tape,3921,3919,False,3919 | 3920 | 9031,49.82350396795992
+a fold-a-way pet pen with shade cover made of steel wire and a polyester textile cover,7323,3925,False,3925 | 4202 | 6110,19.57758512838758
+a rubber door mat made from reclaimed rubber,4003,4016,False,4016 | 4003 | 4008,35.76956345717054
+an outdoor patio fan/light with table,8414,7321,False,7321 | 8414 | 8415,37.13211765544111
+wind turbine generators and related structures installed on the u.s. outer continental shelf,8511,7308,False,7308 | 8511 | 6110,9.056937329502896
+tungsten carbide tool blanks used for manufacturing drill bits and router bits,8209,8207,False,8207 | 8209 | 8467,53.10275380857297
+components of conveyor belt cutters,8466,8203,False,8203 | 4010 | 8482,31.890570912475543
+inflatable/refillable pneumatic wheel assemblies used on fertilizer spreaders,8432,8215,False,8215 | 8412 | 3926,5.516792597901513
+"hydroxyurea, levobunolol hydrochloride, loratadine, medroxyprogesterone acetate, and metoprolol succinate",2933,2922,False,2922 | 2915 | 3921,12.464908918221102
+"beer coolers designed for household use, including a base unit cooler with a prefabricated hole for a beer tap and a compact keg cooler with a tap kit installed",8418,8481,False,8481 | 8418 | 8207,9.978065979091914
+"a jointing compound hardener containing diphenylmethane-4,4'-diisocyanate",3907,3909,False,3909 | 2933 | 3926,31.374120938727206
+a shim for a mechanical valve lifter (tappet) used in an automobile engine,8409,8481,False,8481 | 8479 | 8409,63.943144263236405
+an electro-spindle designed for cnc multi-axis stone milling and processing machines,8466,8479,False,8479 | 8465 | 8461,24.876726405941163
+"(1r, 2s) n-boc-1-amino-2-vinyl-cyclopropane carboxylic acid, cas # 159622-10-3, imported in bulk form, from italy",2924,2933,False,2933 | 2918 | 2916,14.138766836126656
+an aluminum water inlet for use on automotive engines,8481,8409,False,8409 | 7606 | 8481,27.157872484800222
+"cap guard chain link posts used to support, frame, and hold chain link fabric in fencing systems",7306,7315,False,7315 | 7326 | 6307,54.97497812444742
+cast steel housing and cover for liquid supply meter,9028,8504,False,8504 | 9028 | 8481,11.084067985330694
+"photo radar equipment consisting of a radar unit, control unit, photographic camera, flash unit, memory card, and tripod used for recording traffic violations",8529,9031,False,9031 | 9006 | 8526,18.887252711409108
+"a polyethylene film product consisting of a low density polyethylene laminate between two clear cross laminated airy fabric layers, used as a disposable protective floor covering",3920,3921,False,3921 | 3918 | 3920,18.165473113520346
+"various chimney system parts including an elbow, a chimney pipe section, a chimney cap, a storm collar, and flashing",7307,7306,False,7306 | 3917 | 8431,3.513007504115278
+a ladies camisole-styled undergarment with removable adjustable garters made of nylon and elastane,6212,6108,False,6108 | 6114 | 6110,36.547420579345705
+"amino acids derived from non-gmo soybean meal, intended for use in crop fertilizers and soil amendments",3507,3913,False,3913 | 2917 | 3907,5.409100540245217
+"textile spinning machine components, specifically boron treated rotors, a plastic cylinder, and a reflector ring",8448,8445,False,8445 | 8412 | 8448,25.184715542215763
+l-lysine hcl (cas# 657-27-2) from china,2922,2932,False,2932 | 2825 | 2933,34.74548916051411
+"straight lengths of steel pipe, tapered pipe (reducers), and pipe fittings (bends) known as twin pipes, consisting of an inner layer of carbon steel and an outer layer of alloy steel, used in various industrial applications including mobile concrete pumps",7304,7307,False,7307 | 7304 | 8207,55.77055962307761
+safety heads from mexico and rupture disks from ireland,8483,8517,False,8517 | 3926 | 3920,8.80690805765969
+girls underwear tank styled undershirt and panty made of knitted cotton fabric,6114,6109,False,6109 | 6114 | 6108,65.48195469538507
+tweezers used in the production of hard disk drives,3926,8203,False,8203 | 8471 | 8501,52.36443048289863
+"a backpack containing various school and office supplies including a calculator, scissors, pens, pencils, a utility knife, a ruler, staples, a stapler, tape, a staple remover, push pins, paper clips, and a pencil sharpener",4202,3923,False,3923 | 3506 | 7321,14.602764046017077
+a 3d starter pack kit for a 3d or 3d ready dlp television,9013,8529,False,8529 | 8528 | 8516,35.41071095618102
+an electronic fuel injector used in motor vehicle type internal combustion engines,8481,8413,False,8413 | 8511 | 9026,34.72078508034029
+"drill pipe, drill collars, square kellys, and drill-stem subs from the russian federation",7304,8431,False,8431 | 8467 | 8466,35.0759100551519
+grilling kits containing various grilling tools,8215,8207,False,8207 | 7321 | 8481,25.95679075169368
+infant phototherapy lights designed for therapeutic use in incubators and open care warmers,9018,6111,False,6111 | 8543 | 9018,17.793483252509944
+"a mini tower case for a computer and its components, including metal brackets, plastic bezels, and screws",8473,7308,False,7308 | 7318 | 8207,6.055804824390282
+n-boc-1-aminocyclopropanecarboxylic acid (cas # 88950-64-5),2924,2930,False,2930 | 2916 | 2915,20.11440774636618
+self-adhesive vinyl sheets and strips designed for decorative covering and corner protection,3923,3919,False,3919 | 3926 | 3916,55.926856469425154
+dental implant related items including a spherical bite block plate and surgical guides,9022,9018,False,9018 | 9021 | 8483,30.227964060918573
+purge plug cans used in steel mills and foundries,8454,4016,False,4016 | 8455 | 7318,8.647403974200046
+a toddler girls' cotton short set consisting of a knit top and woven shorts,6116,6106,False,6106 | 6114 | 6109,31.990875696056857
+predator windshield mounting kit,3926,4008,False,4008 | 8302 | 8424,36.92839360999468
+"electronic monitors used on stationary exercise equipment, specifically treadmills, that display speed, time, distance, caloric expenditure, and pulse",9506,9029,False,9029 | 9506 | 9018,55.883261078738045
+electrical connectors and housings for strobe lamps,8516,8536,False,8536 | 8538 | 8483,46.14832342708542
+"air handling units designed for cooling and heating spaces, featuring an insulated steel cabinet, an evaporator coil, and a fan",8415,8479,False,8479 | 8414 | 8415,22.169611490070977
+an analog input module used with the jupiter ii control system,8538,8481,False,8481 | 8537 | 9027,16.59116127485487
+an adult costume petticoat made of knit 100 percent polyester fabric,6108,6103,False,6103 | 6108 | 6114,32.144649549436224
+"an electric breast pump designed for use by nursing mothers, which includes two breast flanges, two collection bottles, built-in bottle holders, an ac adapter, and tubing, and features adjustable suction and speed settings",8413,3926,False,3926 | 8516 | 8413,9.922647999246536
+"plastic shower and tub enclosures, whirlpool tubs, and shower panels",3922,9025,False,9025 | 3922 | 3924,49.25830965293188
+"a women's knit undergarment skort that features a four-inch waistband, reaches to the thigh, has a change in knit pattern on the sides for better movement, and includes a permanently attached short-style underpant with a gusset and hemmed leg openings",6108,6104,False,6104 | 6108 | 6114,20.19370376902829
+"2-phenoxyethanol, a chemical compound used as a solvent for cellulose acetate, dyes, inks, and resins",2909,3912,False,3912 | 3921 | 2915,16.861042756663274
+a rubber bellows assembly used in washing machines,4009,8450,False,8450 | 7318 | 4016,54.544511650717084
+a bushing used to support the crankshaft of a foot pedal in a pedal boat,8483,8409,False,8409 | 8483 | 7318,5.16315833208493
+"benzyl chloride, benzyl propionate, and benzyl salicylate",2903,2906,False,2906 | 2915 | 2933,38.41848828630541
+women's underpants and women's pullovers made of cotton and nylon,6113,6108,False,6108 | 6110 | 6104,60.05819153165213
+"a drain plug gasket, part number 11126aa000, also known as a crush washer, used in internal combustion engines to maintain a seal around the oil plug",7326,8409,False,8409 | 8511 | 7318,28.82536923936037
+wireless digital telecommunication base stations used in classroom communication systems,8517,8525,False,8525 | 9030 | 9015,9.076848396418196
+"plastic slip-on couplings used for joining drain, waste, and vent piping materials",3917,7307,False,7307 | 8481 | 3926,34.39260465143959
+a central processing unit used in a vehicle collision warning system,8512,8471,False,8471 | 9029 | 8481,13.434477158481354
+"fabric cleaning cloth, vinyl carrying case, keychain/optical screwdriver, spray bottle lens cleaner, nylon eyeglass case, and liquid lens treatment",2912,8211,False,8211 | 8424 | 8205,26.49297383639747
+diesel engine assembly used for the propulsion of vehicles,8408,8409,False,8409 | 8407 | 8412,32.99628277835521
+"a child's spotted cow animal costume made of knitted pile and polyester, designed as a vest with an attached hood, ears, bells, and a tail",6111,6110,False,6110 | 3926 | 6114,37.13768186168711
+men's knit garments including vests and cardigans made from cotton and linen,6111,6110,False,6110 | 6105 | 8481,78.04843636486552
+a bubble solution concentrate used to refill bubble toys and machines,3402,3923,False,3923 | 9018 | 8479,19.49466566582043
+"a union, screw, and bolt stud used in automobiles",7321,7318,False,7318 | 8413 | 7307,74.82129495815073
+a large disaster survival kit,8529,8527,False,8527 | 3926 | 7318,7.298656042866123
+cnc horizontal lathes from india,8458,8467,False,8467 | 8458 | 8466,29.079021344703744
+girls coated swimsuits made from polyester and spandex with pvc foil coating,6113,6112,False,6112 | 3921 | 3926,48.14679187596075
+essential oil diffusers,8516,8481,False,8481 | 3921 | 7323,6.600661905347585
+"components of a plastic recycling system, including a dissolver, thermal decomposition vessel, and condenser",8419,3926,False,3926 | 8481 | 8531,17.445707963891387
+plastic items for diagnostic tests from india,3926,3923,False,3923 | 9027 | 3924,10.541815388044903
+a splined front idler assembly used on a shovel loader,8431,8201,False,8201 | 8205 | 8412,8.916343212976937
+"a cribmaster hybrid accucab, a point-of-use device that combines scale-and-bin technology and radio frequency identification (rfid) technology for managing inventories",9403,8531,False,8531 | 8423 | 9027,7.48720498311797
+three chemicals used in ink coatings from taiwan,2916,3907,False,3907 | 3926 | 3920,14.779851736311663
+vinyl flappers,8481,3926,False,3926 | 3925 | 3904,33.24181564002178
+"ladies' underwear made from cotton, polyester, and spandex",6108,6109,False,6109 | 6113 | 6112,22.94029726083365
+a single-serve plastic coffee pod,3926,8516,False,8516 | 3926 | 3924,36.303695916526785
+a hand tool used to insert screen mesh into metal or plastic frames to create screen windows or screen doors,8205,3925,False,3925 | 7308 | 8205,13.910127995309091
+"hydraulic motors, specifically series 51 and series 90 motors from sauer sundstrand company",8412,8501,False,8501 | 8412 | 8413,41.70545726719443
+steel stay rods/studs used in hydraulic fracturing pumps,7318,8413,False,8413 | 7318 | 8483,48.73008847289819
+cyclohexanone (cas 108-94-1),2914,2905,False,2905 | 2902 | 2906,39.490759472035855
+laser safety light - model number f-23,8512,9031,False,9031 | 8427 | 3507,40.142201219989474
+a laundry detergent tap,8481,3402,False,3402 | 3906 | 8536,22.45830981135589
+"steel racks, pallets, and molds used in the manufacture of concrete blocks",7326,8480,False,8480 | 8474 | 7318,69.18583926512973
+"a device that measures the velocity of projectiles, designed for use by hunters, competitive shooters, the military, and police departments",9031,9029,False,9029 | 9027 | 9031,20.47964407492644
+a perforated aluminum wall for a data rack cabinet,9403,7615,False,7615 | 7409 | 8471,8.53105718780153
+led poultry lighting,8543,8414,False,8414 | 8536 | 8482,12.033709878623828
+"polyamide 6,6 in various forms including flakes, contaminated flakes, ground chunk waste, polymer fines, and fused extrusion wastes",3915,3907,False,3907 | 3915 | 3911,6.667353275776371
+tufting needles used in fabric tufting machines,8448,9018,False,9018 | 8448 | 8466,34.25432777362196
+"various articles of cutlery including single edge razor blades, double edge industrial knife blades, fixed blade craft knives, utility knives, and disposable safety razors",8205,8211,False,8211 | 8205 | 9018,54.42285429915484
+"frac blender, yard spooler, coil tubing picker tractor, iron truck with crane, and coil tubing reel",8479,8509,False,8509 | 3917 | 8426,21.820342738435684
+a control system for natural gas engines,8481,8412,False,8412 | 8481 | 8411,33.49767685189615
+electric motor housings and covers from italy,8504,8501,False,8501 | 9027 | 8538,33.8058293071746
+drill bits and a chuck used with a non-electric hand crank drill,8207,8466,False,8466 | 8207 | 8467,24.118769129904276
+a double flanged wheel hub assembly with ball bearings and abs components without splining,8708,8482,False,8482 | 8483 | 3925,73.34679058430066
+"air purifiers used in agricultural applications, specifically the kasco k80s-t5 and k80s-t5n models",9020,9018,False,9018 | 8436 | 8481,15.23556466780485
+telescopic drive jacks,8425,9013,False,9013 | 8425 | 8412,19.443273943061136
+"a toddler boys varsity style jacket made from a knit fabric with a polyester and rayon blend, featuring cellular plastic sleeves, a polyfill interior, and a polyester woven lining",6101,3926,False,3926 | 6101 | 6103,38.783890501424125
+m-toluic acid (cas # 99-04-7),2916,2915,False,2915 | 2917 | 2916,18.749734382466084
+"bicalutamide, linagliptin, and aripiprazole in bulk powder form",2930,2933,False,2933 | 2930 | 3923,43.03411848534226
+di-trimethylolpropane (ditmp),2909,2905,False,2905 | 2916 | 2909,37.60071530697995
+a stainless steel container designed for use with a commercial blender to blend milkshakes and other drinks,8438,8509,False,8509 | 3923 | 7312,30.950523063977208
+ladies underwire bustier styled garment with matching thong styled panty,6212,6108,False,6108 | 6114 | 6212,36.353913183963925
+"salbutamol sulfate (cas-51022-70-9), a beta-adrenergic bronchodilator drug used for the prevention and relief of bronchospasm",2922,3913,False,3913 | 8481 | 2921,19.715348441969226
+metallized polypropylene film used for gift wrapping and laminating,3921,3920,False,3920 | 3921 | 6110,77.42922153465234
+"a steel razor blade that is approximately 1 inch long, sharpened on one side, and will be inserted into a plastic casing to become a cutting knife for light cutting jobs",8211,8205,False,8205 | 8211 | 8203,36.15302494468648
+"ethyl eugenol, an odoriferous compound used in research and development",2909,2933,False,2933 | 8514 | 8481,41.9179894629341
+"thermal knit apparel and accessories made up of angora wool, primarily used to provide warmth",6110,6112,False,6112 | 7323 | 8481,7.775480362642007
+injection molding machine components used in the production of contact lenses,8480,8477,False,8477 | 8480 | 9001,32.452395163424974
+pontoon boat repair kits,8481,8483,False,8483 | 8205 | 3907,24.983233858026033
+an 11-piece auto emergency tool kit,8211,8206,False,8206 | 8205 | 8211,28.43727636023135
+"benzophenone-1, benzophenone-2, and benzophenone-3 used as uv absorbers for cosmetics",2917,2914,False,2914 | 3923 | 2930,50.04798236185594
+a women's teddy bear label knit jacket made from 100% polyester,6102,6101,False,6101 | 6102 | 9503,40.953560351832614
+a microtome/cryostat and a tissue processor,9027,9018,False,9018 | 8471 | 3926,19.79302560235363
+a nylon nonwoven substrate coated with polyurethane plastics used as imitation leather in footwear,5603,3921,False,3921 | 5603 | 3926,56.98919109389923
+"drive-away chassis assembly, engine assembly, transmission assembly, trimmed cabin assembly, and cargo assembly for a sport utility vehicle",8708,8716,False,8716 | 8481 | 8529,9.322439049812692
+engine bearings used in internal combustion engines for motor vehicles,8483,8409,False,8409 | 8483 | 8511,43.36754474831317
+"trimethylaluminum in octane, aluminum isopropoxide, arsenic trichloride, triethylarsine, and carbon tetrabromide, hexadecane",2912,2905,False,2905 | 2903 | 9027,45.84050937454799
+water sampling bag kits designed to collect and preserve chlorinated water samples,3923,8481,False,8481 | 3923 | 4202,24.90421642160593
+a screw removal kit that includes two double-ended bits for extracting damaged screws,8207,7318,False,7318 | 8207 | 8205,45.27873028347156
+a shockproof mechanical base used to level or reduce vibration generated by heavy machinery,8487,8479,False,8479 | 9031 | 9018,13.681044782178741
+"cut-off saws suitable for cutting metal, concrete, stone, and asphalt",8467,8203,False,8203 | 8461 | 8466,23.286287534596806

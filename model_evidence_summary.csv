@@ -1,0 +1,8 @@
+Metric,Value
+Top-1 Accuracy,0.698252688172043
+Top-3 Accuracy,0.8158602150537635
+Macro F1,0.5877382441434161
+Majority-Class Baseline,0.07090053763440861
+Test Samples,2976.0
+Correct Top-1,2078.0
+Incorrect Top-1,898.0
